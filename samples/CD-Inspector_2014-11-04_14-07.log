@@ -1,0 +1,1725 @@
+﻿CD-Inspector Version: 2. 0. 1. 4  Logfile
+
+Start:   11/04/2014   14:07
+
+Date    Time    File                                              Status      Comment                               
+--------------------------------------------------------------------------------------------------------------------
+11/04   14:07   Init UserManager:                                 ok          
+11/04   14:07   Init Drives:                                      ok          
+11/04   14:07   loading PostProcessor:                            ok          
+11/04   14:07   Init MediaEngine:                                 ok          
+11/04   14:08   Init JukeBox:                                     ok          
+11/04   14:08   JukeBox Name and Number:                          NSM_Satellite (N30020-AK  )
+11/04   14:08   .../jobfiles/jobfile_603.job.xml loaded successful
+11/04   16:20   Report- and Exportfiles not supported for Datatrack            
+CD-Inspector Version: 2. 0. 1. 4  Logfile
+
+Start:   11/04/2014   14:08
+
+Date    Time    File                                              Status      Comment                               
+--------------------------------------------------------------------------------------------------------------------
+11/04   14:08   Folder for audio data:                            ...\data
+11/04   14:08   Folder for Logfiles:                              ...\logfiles
+11/04   14:08   Folder for Jobfiles:                              ...\jobfiles
+11/04   14:08   Folder for Importfiles:                           ...\Importfile
+11/04   14:08   Create Backup of existing Outputfolder:           on          
+11/04   14:08   Output Mode:                                      Track At Once
+11/04   14:08   Output Format:                                    Wave        
+11/04   14:08   Prepare for Postprocessing:                       off         
+11/04   14:08   Order of Coding History (import first):           off         
+11/04   14:08   Avoid Warning if Importfile is not used:          on          
+11/04   14:08   Delete Used ImportFile:                           off         
+11/04   14:08   Ignore empty Chargelist:                          off         
+11/04   14:08   Reportfile Setting:                               write all Files
+11/04   14:08   Write Import Events into Exportfile:              on          
+11/04   14:08   Copy special XSL-Templates (including pictures):  off         
+11/04   14:08   Abort on Multisession CDs (Audio + Data):         off         
+11/04   14:08   Abort on unknown Subcode Data:                    off         
+11/04   14:08   Abort on C2 Error:                                off         
+11/04   14:08   Abort on Bad Block:                               off         
+11/04   14:08   Abort on Frame Lost:                              off         
+11/04   14:08   Abort on Capturing Timer:                         on (45 minutes)
+11/04   14:08   Delete content of canceled job:                   on          
+11/04   14:08   Retry on C2 Errors:                               on (3 retries)
+11/04   14:08   Retry on Bad Blocks:                              on (3 retries)
+11/04   14:08   Bad Block:                                        priority 5 
+11/04   14:08   C2Error:                                          priority 5 
+11/04   14:08   FrameLost:                                        priority 5 
+11/04   14:08   SampleHold:                                       priority 5 
+11/04   14:08   Audio in Pause:                                   priority 1 
+11/04   14:08   Prepause before Track 1 < 2 seconds:              priority 5 
+11/04   14:08   Hidden Track:                                     priority 1 (4 seconds)
+11/04   14:08   Invalid UPC/EAN:                                  priority 1 
+11/04   14:08   Track < 4 seconds:                                priority 5 
+11/04   14:08   TOC Diff 2 ATime:                                 priority 1 
+11/04   14:08   Pregap Event:                                     priority 1 (10 seconds)
+11/04   14:08   Playtime Event:                                   priority 1 (78:30:00 mm:ss:ff)
+11/04   14:08   Unknown Subcode:                                  priority 1 
+11/04   14:08   Jump in ATime:                                    off
+11/04   14:08   Jump in RTime:                                    off
+11/04   14:08   Doubling ATime:                                   off
+11/04   14:08   Doubling RTime:                                   off
+11/04   14:08   ISRC Check Failed (Jobfile check):                priority 1 
+11/04   14:08   Multiple ISRC for one track:                      priority 1 
+11/04   14:08   Multiple UPC/EAN for one CD:                      priority 1 
+11/04   14:08   ISRC Changed at Track or Index:                   priority 1 
+11/04   14:08   UPC Changed at Track or Index:                    priority 1 
+11/04   14:08   use archive Number As Filename :                  on          
+11/04   14:08   use Archivenumberdialog with Mailslot :           on          
+11/04   14:08   allow empty Archivenumber :                       off         
+11/04   14:08   cancel on Archivenumber mismatch :                off         
+11/04   14:08   use default jukebox capacity as CD's to load :    off         
+11/04   14:08   allow invalid catalog number :                    off         
+11/04   14:08   disable verify catalog number :                   off         
+11/04   14:08   don't extract ISO images :                        on          
+11/04   14:08   use long filenames :                              off         
+11/04   14:14   Magazin: 06000000293755 load ok                               
+11/04   14:14   Magazin: 06000000293755  Slot: 1  Jukebox Slot: 100            
+11/04   14:14   Magazin: 06000000293755  Slot: 2  Jukebox Slot: 99            
+11/04   14:14   Magazin: 06000000293755  Slot: 3  Jukebox Slot: 98            
+11/04   14:14   Magazin: 06000000293755  Slot: 4  Jukebox Slot: 97            
+11/04   14:14   Magazin: 06000000293755  Slot: 5  Jukebox Slot: 96            
+11/04   14:14   Magazin: 06000000293755  Slot: 6  Jukebox Slot: 95            
+11/04   14:14   Magazin: 06000000293755  Slot: 7  Jukebox Slot: 94            
+11/04   14:14   Magazin: 06000000293755  Slot: 8  Jukebox Slot: 93            
+11/04   14:14   Magazin: 06000000293755  Slot: 9  Jukebox Slot: 92            
+11/04   14:14   Magazin: 06000000293755  Slot: 10  Jukebox Slot: 91            
+11/04   14:14   Magazin: 06000000293755  Slot: 11  Jukebox Slot: 90            
+11/04   14:14   Magazin: 06000000293755  Slot: 12  Jukebox Slot: 89            
+11/04   14:14   Magazin: 06000000293755  Slot: 13  Jukebox Slot: 88            
+11/04   14:14   Magazin: 06000000293755  Slot: 14  Jukebox Slot: 87            
+11/04   14:14   Magazin: 06000000293755  Slot: 15  Jukebox Slot: 86            
+11/04   14:19   Magazin: 06000000291079 load ok                               
+11/04   14:19   Magazin: 06000000291079  Slot: 1  Jukebox Slot: 85            
+11/04   14:19   Magazin: 06000000291079  Slot: 2  Jukebox Slot: 84            
+11/04   14:19   Magazin: 06000000291079  Slot: 3  Jukebox Slot: 83            
+11/04   14:19   Magazin: 06000000291079  Slot: 4  Jukebox Slot: 82            
+11/04   14:19   Magazin: 06000000291079  Slot: 5  Jukebox Slot: 81            
+11/04   14:19   Magazin: 06000000291079  Slot: 6  Jukebox Slot: 80            
+11/04   14:19   Magazin: 06000000291079  Slot: 7  Jukebox Slot: 79            
+11/04   14:19   Magazin: 06000000291079  Slot: 8  Jukebox Slot: 78            
+11/04   14:19   Magazin: 06000000291079  Slot: 9  Jukebox Slot: 77            
+11/04   14:19   Magazin: 06000000291079  Slot: 10  Jukebox Slot: 76            
+11/04   14:19   Magazin: 06000000291079  Slot: 11  Jukebox Slot: 75            
+11/04   14:19   Magazin: 06000000291079  Slot: 12  Jukebox Slot: 74            
+11/04   14:19   Magazin: 06000000291079  Slot: 13  Jukebox Slot: 73            
+11/04   14:19   Magazin: 06000000291079  Slot: 14  Jukebox Slot: 72            
+11/04   14:19   Magazin: 06000000291079  Slot: 15  Jukebox Slot: 71            
+11/04   14:24   Magazin: 06000000292241 load ok                               
+11/04   14:24   Magazin: 06000000292241  Slot: 1  Jukebox Slot: 70            
+11/04   14:24   Magazin: 06000000292241  Slot: 2  Jukebox Slot: 69            
+11/04   14:24   Magazin: 06000000292241  Slot: 3  Jukebox Slot: 68            
+11/04   14:24   Magazin: 06000000292241  Slot: 4  Jukebox Slot: 67            
+11/04   14:24   Magazin: 06000000292241  Slot: 5  Jukebox Slot: 66            
+11/04   14:24   Magazin: 06000000292241  Slot: 6  Jukebox Slot: 65            
+11/04   14:24   Magazin: 06000000292241  Slot: 7  Jukebox Slot: 64            
+11/04   14:24   Magazin: 06000000292241  Slot: 8  Jukebox Slot: 63            
+11/04   14:24   Magazin: 06000000292241  Slot: 9  Jukebox Slot: 62            
+11/04   14:24   Magazin: 06000000292241  Slot: 10  Jukebox Slot: 61            
+11/04   14:24   Magazin: 06000000292241  Slot: 11  Jukebox Slot: 60            
+11/04   14:24   Magazin: 06000000292241  Slot: 12  Jukebox Slot: 59            
+11/04   14:24   Magazin: 06000000292241  Slot: 13  Jukebox Slot: 58            
+11/04   14:24   Magazin: 06000000292241  Slot: 14  Jukebox Slot: 57            
+11/04   14:24   Magazin: 06000000292241  Slot: 15  Jukebox Slot: 56            
+11/04   14:31   Magazin: 06000000293755 load ok                               
+11/04   14:31   Magazin: 06000000293755  Slot: 1  Jukebox Slot: 55            
+11/04   14:31   Magazin: 06000000293755  Slot: 2  Jukebox Slot: 54            
+11/04   14:31   Magazin: 06000000293755  Slot: 3  Jukebox Slot: 53            
+11/04   14:31   Magazin: 06000000293755  Slot: 4  Jukebox Slot: 52            
+11/04   14:31   Magazin: 06000000293755  Slot: 5  Jukebox Slot: 51            
+11/04   14:31   Magazin: 06000000293755  Slot: 6  Jukebox Slot: 50            
+11/04   14:31   Magazin: 06000000293755  Slot: 7  Jukebox Slot: 49            
+11/04   14:31   Magazin: 06000000293755  Slot: 8  Jukebox Slot: 48            
+11/04   14:31   Magazin: 06000000293755  Slot: 9  Jukebox Slot: 47            
+11/04   14:31   Magazin: 06000000293755  Slot: 10  Jukebox Slot: 46            
+11/04   14:31   Magazin: 06000000293755  Slot: 11  Jukebox Slot: 45            
+11/04   14:31   Magazin: 06000000293755  Slot: 12  Jukebox Slot: 44            
+11/04   14:31   Magazin: 06000000293755  Slot: 13  Jukebox Slot: 43            
+11/04   14:31   Magazin: 06000000293755  Slot: 14  Jukebox Slot: 42            
+11/04   14:31   Magazin: 06000000293755  Slot: 15  Jukebox Slot: 41            
+11/04   14:36   Magazin: 06000000291079 load ok                               
+11/04   14:36   Magazin: 06000000291079  Slot: 1  Jukebox Slot: 40            
+11/04   14:36   Magazin: 06000000291079  Slot: 2  Jukebox Slot: 39            
+11/04   14:36   Magazin: 06000000291079  Slot: 3  Jukebox Slot: 38            
+11/04   14:36   Magazin: 06000000291079  Slot: 4  Jukebox Slot: 37            
+11/04   14:36   Magazin: 06000000291079  Slot: 5  Jukebox Slot: 36            
+11/04   14:36   Magazin: 06000000291079  Slot: 6  Jukebox Slot: 35            
+11/04   14:36   Magazin: 06000000291079  Slot: 7  Jukebox Slot: 34            
+11/04   14:36   Magazin: 06000000291079  Slot: 8  Jukebox Slot: 33            
+11/04   14:36   Magazin: 06000000291079  Slot: 9  Jukebox Slot: 32            
+11/04   14:36   Magazin: 06000000291079  Slot: 10  Jukebox Slot: 31            
+11/04   14:36   Magazin: 06000000291079  Slot: 11  Jukebox Slot: 30            
+11/04   14:36   Magazin: 06000000291079  Slot: 12  Jukebox Slot: 29            
+11/04   14:36   Magazin: 06000000291079  Slot: 13  Jukebox Slot: 28            
+11/04   14:36   Magazin: 06000000291079  Slot: 14  Jukebox Slot: 27            
+11/04   14:36   Magazin: 06000000291079  Slot: 15  Jukebox Slot: 26            
+11/04   14:41   Magazin: 06000000292241 load ok                               
+11/04   14:41   Magazin: 06000000292241  Slot: 1  Jukebox Slot: 25            
+11/04   14:41   Magazin: 06000000292241  Slot: 2  Jukebox Slot: 24            
+11/04   14:41   Magazin: 06000000292241  Slot: 3  Jukebox Slot: 23            
+11/04   14:41   Magazin: 06000000292241  Slot: 4  Jukebox Slot: 22            
+11/04   14:41   Magazin: 06000000292241  Slot: 5  Jukebox Slot: 21            
+11/04   14:41   Magazin: 06000000292241  Slot: 6  Jukebox Slot: 20            
+11/04   14:41   Magazin: 06000000292241  Slot: 7  Jukebox Slot: 19            
+11/04   14:41   Magazin: 06000000292241  Slot: 8  Jukebox Slot: 18            
+11/04   14:41   Magazin: 06000000292241  Slot: 9  Jukebox Slot: 17            
+11/04   14:41   Magazin: 06000000292241  Slot: 10  Jukebox Slot: 16            
+11/04   14:41   Magazin: 06000000292241  Slot: 11  Jukebox Slot: 15            
+11/04   14:41   Magazin: 06000000292241  Slot: 12  Jukebox Slot: 14            
+11/04   14:41   Magazin: 06000000292241  Slot: 13  Jukebox Slot: 13            
+11/04   14:41   Magazin: 06000000292241  Slot: 14  Jukebox Slot: 12            
+11/04   14:41   Magazin: 06000000292241  Slot: 15  Jukebox Slot: 11            
+11/04   14:45   Magazin: 06000000293755 load ok                               
+11/04   14:45   Magazin: 06000000293755  Slot: 1  Jukebox Slot: 101            
+11/04   14:45   Magazin: 06000000293755  Slot: 2  Jukebox Slot: 102            
+11/04   14:45   Magazin: 06000000293755  Slot: 3  Jukebox Slot: 103            
+11/04   14:45   Magazin: 06000000293755  Slot: 4  Jukebox Slot: 104            
+11/04   14:45   Magazin: 06000000293755  Slot: 5  Jukebox Slot: 105            
+11/04   14:45   Magazin: 06000000293755  Slot: 6  Jukebox Slot: 106            
+11/04   14:45   Magazin: 06000000293755  Slot: 7  Jukebox Slot: 107            
+11/04   14:45   Magazin: 06000000293755  Slot: 8  Jukebox Slot: 108            
+11/04   14:45   Magazin: 06000000293755  Slot: 9  Jukebox Slot: 109            
+11/04   14:45   Magazin: 06000000293755  Slot: 10  Jukebox Slot: 110            
+11/04   14:45   Magazin: 06000000293755  Slot: 11  Jukebox Slot: 111            
+11/04   14:45   Magazin: 06000000293755  Slot: 12  Jukebox Slot: 112            
+11/04   14:45   Magazin: 06000000293755  Slot: 13  Jukebox Slot: 113            
+11/04   14:45   Magazin: 06000000293755  Slot: 14  Jukebox Slot: 114            
+11/04   14:45   Magazin: 06000000293755  Slot: 15  Jukebox Slot: 115            
+11/04   14:48   Magazin: 06000000291079 load ok                               
+11/04   14:48   Magazin: 06000000291079  Slot: 1  Jukebox Slot: 116            
+11/04   14:48   Magazin: 06000000291079  Slot: 2  Jukebox Slot: 117            
+11/04   14:48   Magazin: 06000000291079  Slot: 3  Jukebox Slot: 118            
+11/04   14:48   Magazin: 06000000291079  Slot: 4  Jukebox Slot: 119            
+11/04   14:48   Magazin: 06000000291079  Slot: 5  Jukebox Slot: 120            
+11/04   14:48   Magazin: 06000000291079  Slot: 6  Jukebox Slot: 121            
+11/04   14:48   Magazin: 06000000291079  Slot: 7  Jukebox Slot: 122            
+11/04   14:48   Magazin: 06000000291079  Slot: 8  Jukebox Slot: 123            
+11/04   14:48   Magazin: 06000000291079  Slot: 9  Jukebox Slot: 124            
+11/04   14:48   Magazin: 06000000291079  Slot: 10  Jukebox Slot: 125            
+11/04   14:48   Magazin: 06000000291079  Slot: 11  Jukebox Slot: 126            
+11/04   14:48   Magazin: 06000000291079  Slot: 12  Jukebox Slot: 127            
+11/04   14:48   Magazin: 06000000291079  Slot: 13  Jukebox Slot: 128            
+11/04   14:48   Magazin: 06000000291079  Slot: 14  Jukebox Slot: 129            
+11/04   14:48   Magazin: 06000000291079  Slot: 15  Jukebox Slot: 130            
+11/04   14:52   Magazin: 06000000292241 load ok                               
+11/04   14:52   Magazin: 06000000292241  Slot: 1  Jukebox Slot: 131            
+11/04   14:52   Magazin: 06000000292241  Slot: 2  Jukebox Slot: 132            
+11/04   14:52   Magazin: 06000000292241  Slot: 3  Jukebox Slot: 133            
+11/04   14:52   Magazin: 06000000292241  Slot: 4  Jukebox Slot: 134            
+11/04   14:52   Magazin: 06000000292241  Slot: 5  Jukebox Slot: 135            
+11/04   14:52   Magazin: 06000000292241  Slot: 6  Jukebox Slot: 136            
+11/04   14:52   Magazin: 06000000292241  Slot: 7  Jukebox Slot: 137            
+11/04   14:52   Magazin: 06000000292241  Slot: 8  Jukebox Slot: 138            
+11/04   14:52   Magazin: 06000000292241  Slot: 9  Jukebox Slot: 139            
+11/04   14:52   Magazin: 06000000292241  Slot: 10  Jukebox Slot: 140            
+11/04   14:52   Magazin: 06000000292241  Slot: 11  Jukebox Slot: 141            
+11/04   14:52   Magazin: 06000000292241  Slot: 12  Jukebox Slot: 142            
+11/04   14:52   Magazin: 06000000292241  Slot: 13  Jukebox Slot: 143            
+11/04   14:52   Magazin: 06000000292241  Slot: 14  Jukebox Slot: 144            
+11/04   14:52   Magazin: 06000000292241  Slot: 15  Jukebox Slot: 145            
+11/04   14:52   Scanning JukeBox:                                 ok          
+11/04   14:52   Found 135 filled Slots            
+11/04   14:52   Slot: 100 In work             
+11/04   14:52   Slot: 99 In work             
+11/04   14:56   Slot: 100 Operation was successfull            
+11/04   14:56   Slot: 100 upc/ean code: not found            
+11/04   14:56   Slot: 100 track: 01 isrc code: DKBQ90601101            
+11/04   14:56   Slot: 100 track: 02 isrc code: DKBQ90601102            
+11/04   14:56   Slot: 100 track: 03 isrc code: DKBQ90601103            
+11/04   14:56   Slot: 100 track: 04 isrc code: DKBQ90600101            
+11/04   14:56   Slot: 100 track: 05 isrc code: DKBQ90601104            
+11/04   14:56   Slot: 100 track: 06 isrc code: DKBQ90601106            
+11/04   14:56   Slot: 100 track: 07 isrc code: DKBQ90601107            
+11/04   14:56   Slot: 100 track: 08 isrc code: DKBQ90601109            
+11/04   14:56   Slot: 100 track: 09 isrc code: DKBQ90601110            
+11/04   14:56   Slot: 100 track: 10 isrc code: DKBQ90601111            
+11/04   14:56   Slot: 100 track: 11 isrc code: DKBQ90601112            
+11/04   14:56   Slot: 100 track: 12 isrc code: DKBQ90601113            
+11/04   14:56   Slot: 100 track: 13 isrc code: DKBQ90601114            
+11/04   14:56   Slot: 100 track: 14 isrc code: DKBQ90601115            
+11/04   14:56   Slot: 98 In work             
+11/04   14:57   Slot: 99 Operation was successfull            
+11/04   14:57   Slot: 99 upc/ean code: not found            
+11/04   14:57   Slot: 99 track: 01 isrc code: DKAZ70714101            
+11/04   14:57   Slot: 99 track: 02 isrc code: DKAZ70713102            
+11/04   14:57   Slot: 99 track: 03 isrc code: DKAZ70790132            
+11/04   14:57   Slot: 99 track: 04 isrc code: DKAZ70706102            
+11/04   14:57   Slot: 99 track: 05 isrc code: DKAZ70790152            
+11/04   14:57   Slot: 99 track: 06 isrc code: DKAZ70714103            
+11/04   14:57   Slot: 99 track: 07 isrc code: DKAZ70712103            
+11/04   14:57   Slot: 99 track: 08 isrc code: DKAZ70711104            
+11/04   14:57   Slot: 99 track: 09 isrc code: DKAZ70713108            
+11/04   14:57   Slot: 99 track: 10 isrc code: DKAZ70790134            
+11/04   14:57   Slot: 99 track: 11 isrc code: DKAZ70713103            
+11/04   14:57   Slot: 99 track: 12 isrc code: DKAZ70706103            
+11/04   14:57   Slot: 97 In work             
+11/04   14:59   Slot: 98 ******** Check generated output ********            
+11/04   14:59   Slot: 98 upc/ean code: not found            
+11/04   14:59   Slot: 98 track: 01 isrc code: DKFDK1201301            
+11/04   14:59   Slot: 98 track: 02 isrc code: DKFDK1201302            
+11/04   14:59   Slot: 98 track: 03 isrc code: DKFDK1201303            
+11/04   14:59   Slot: 98 track: 04 isrc code: DKFDK1201304            
+11/04   14:59   Slot: 98 track: 05 isrc code: DKFDK1201305            
+11/04   14:59   Slot: 98 track: 06 isrc code: DKFDK1201306            
+11/04   14:59   Slot: 98 track: 07 isrc code: DKFDK1201307            
+11/04   14:59   Slot: 98 track: 08 isrc code: DKFDK1201308            
+11/04   14:59   Slot: 98 track: 09 isrc code: DKFDK1201309            
+11/04   14:59   Slot: 98 track: 10 isrc code: DKFDK1201310            
+11/04   14:59   Slot: 96 In work             
+11/04   14:59   Slot: 97 Operation was successfull            
+11/04   14:59   Slot: 97 upc/ean code: not found            
+11/04   14:59   Slot: 97 track: 01 isrc code: DKFDK1201601            
+11/04   14:59   Slot: 97 track: 02 isrc code: DKFDK1201602            
+11/04   14:59   Slot: 97 track: 03 isrc code: DKFDK1201603            
+11/04   14:59   Slot: 97 track: 04 isrc code: DKFDK1201604            
+11/04   14:59   Slot: 97 track: 05 isrc code: DKFDK1201605            
+11/04   14:59   Slot: 97 track: 06 isrc code: DKFDK1201606            
+11/04   14:59   Slot: 97 track: 07 isrc code: DKFDK1201607            
+11/04   14:59   Slot: 97 track: 08 isrc code: DKFDK1201608            
+11/04   14:59   Slot: 97 track: 09 isrc code: DKFDK1201609            
+11/04   14:59   Slot: 97 track: 10 isrc code: DKFDK1201610            
+11/04   14:59   Slot: 97 track: 11 isrc code: DKFDK1201611            
+11/04   14:59   Slot: 97 track: 12 isrc code: DKFDK1201612            
+11/04   14:59   Slot: 95 In work             
+11/04   15:02   Slot: 96 Operation was successfull            
+11/04   15:02   Slot: 96 upc/ean code: not found            
+11/04   15:02   Slot: 94 In work             
+11/04   15:03   Slot: 95 Operation was successfull            
+11/04   15:03   Slot: 95 upc/ean code: not found            
+11/04   15:03   Slot: 95 track: 01 isrc code: DKXU21200101            
+11/04   15:03   Slot: 95 track: 02 isrc code: DKXU21200102            
+11/04   15:03   Slot: 95 track: 03 isrc code: DKXU21200103            
+11/04   15:03   Slot: 95 track: 04 isrc code: DKXU21200104            
+11/04   15:03   Slot: 95 track: 05 isrc code: DKXU21200105            
+11/04   15:03   Slot: 95 track: 06 isrc code: DKXU21200106            
+11/04   15:03   Slot: 95 track: 07 isrc code: DKXU21200107            
+11/04   15:03   Slot: 95 track: 08 isrc code: DKXU21200108            
+11/04   15:03   Slot: 95 track: 09 isrc code: DKXU21200109            
+11/04   15:03   Slot: 95 track: 10 isrc code: DKXU21200110            
+11/04   15:03   Slot: 93 In work             
+11/04   15:05   Slot: 94 Operation was successfull            
+11/04   15:05   Slot: 94 upc/ean code: not found            
+11/04   15:05   Slot: 92 In work             
+11/04   15:06   Slot: 93 ******** Check generated output ********            
+11/04   15:06   Slot: 93 upc/ean code: not found            
+11/04   15:06   Slot: 93 track: 01 isrc code: DKBBA1200101            
+11/04   15:06   Slot: 93 track: 02 isrc code: DKBBA1200102            
+11/04   15:06   Slot: 93 track: 03 isrc code: DKBBA1200103            
+11/04   15:06   Slot: 93 track: 04 isrc code: DKBBA1200104            
+11/04   15:06   Slot: 93 track: 05 isrc code: DKBBA1200105            
+11/04   15:06   Slot: 93 track: 06 isrc code: DKBBA1200106            
+11/04   15:06   Slot: 93 track: 07 isrc code: DKBBA1200107            
+11/04   15:06   Slot: 93 track: 08 isrc code: DKBBA1200108            
+11/04   15:06   Slot: 93 track: 09 isrc code: DKBBA1200109            
+11/04   15:06   Slot: 93 track: 10 isrc code: DKBBA1200110            
+11/04   15:06   Slot: 93 track: 11 isrc code: DKBBA1200111            
+11/04   15:06   Slot: 93 track: 12 isrc code: DKBBA1200112            
+11/04   15:06   Slot: 93 track: 13 isrc code: DKBBA1200113            
+11/04   15:06   Slot: 91 In work             
+11/04   15:07   Slot: 92 Operation was successfull            
+11/04   15:07   Slot: 92 upc/ean code: not found            
+11/04   15:07   Slot: 92 track: 01 isrc code: USSM11302458            
+11/04   15:07   Slot: 92 track: 02 isrc code: USSM11302459            
+11/04   15:07   Slot: 92 track: 03 isrc code: USSM11300676            
+11/04   15:07   Slot: 92 track: 04 isrc code: USSM11302460            
+11/04   15:07   Slot: 92 track: 05 isrc code: USSM11302461            
+11/04   15:07   Slot: 92 track: 06 isrc code: USSM11302462            
+11/04   15:07   Slot: 92 track: 07 isrc code: USSM11302463            
+11/04   15:07   Slot: 92 track: 08 isrc code: USSM11302464            
+11/04   15:07   Slot: 92 track: 09 isrc code: USSM11302465            
+11/04   15:07   Slot: 92 track: 10 isrc code: USSM11302466            
+11/04   15:07   Slot: 90 In work             
+11/04   15:09   Slot: 90 Operation was successfull            
+11/04   15:09   Slot: 90 upc/ean code: not found            
+11/04   15:09   Slot: 89 In work             
+11/04   15:10   Slot: 91 Operation was successfull            
+11/04   15:10   Slot: 91 upc/ean code: not found            
+11/04   15:10   Slot: 91 track: 01 isrc code: DKJ9A1300101            
+11/04   15:10   Slot: 91 track: 02 isrc code: DKJ9A1300102            
+11/04   15:10   Slot: 91 track: 03 isrc code: DKJ9A1300103            
+11/04   15:10   Slot: 91 track: 04 isrc code: DKJ9A1300104            
+11/04   15:10   Slot: 91 track: 05 isrc code: DKJ9A1300105            
+11/04   15:10   Slot: 91 track: 06 isrc code: DKJ9A1300106            
+11/04   15:10   Slot: 91 track: 07 isrc code: DKJ9A1300107            
+11/04   15:10   Slot: 88 In work             
+11/04   15:11   Slot: 89 Operation was successfull            
+11/04   15:11   Slot: 89 upc/ean code: not found            
+11/04   15:11   Slot: 89 track: 01 isrc code: DKRU61100101            
+11/04   15:11   Slot: 89 track: 02 isrc code: DKRU61100102            
+11/04   15:11   Slot: 89 track: 03 isrc code: DKRU61100103            
+11/04   15:11   Slot: 89 track: 04 isrc code: DKRU61100104            
+11/04   15:11   Slot: 89 track: 05 isrc code: DKRU61100105            
+11/04   15:11   Slot: 89 track: 06 isrc code: DKRU61100106            
+11/04   15:11   Slot: 89 track: 07 isrc code: DKRU61100107            
+11/04   15:11   Slot: 89 track: 08 isrc code: DKRU61100108            
+11/04   15:11   Slot: 89 track: 09 isrc code: DKRU61100109            
+11/04   15:11   Slot: 87 In work             
+11/04   15:13   Slot: 88 Operation was successfull            
+11/04   15:13   Slot: 88 upc/ean code: not found            
+11/04   15:13   Slot: 88 track: 01 isrc code: DKGP51100301            
+11/04   15:13   Slot: 88 track: 02 isrc code: DKGP51100302            
+11/04   15:13   Slot: 88 track: 03 isrc code: DKGP51100303            
+11/04   15:13   Slot: 88 track: 04 isrc code: DKGP51100304            
+11/04   15:13   Slot: 88 track: 05 isrc code: DKGP51100305            
+11/04   15:13   Slot: 88 track: 06 isrc code: DKGP51100306            
+11/04   15:13   Slot: 88 track: 07 isrc code: DKGP51100307            
+11/04   15:13   Slot: 88 track: 08 isrc code: DKGP51100308            
+11/04   15:13   Slot: 88 track: 09 isrc code: DKGP51100309            
+11/04   15:13   Slot: 88 track: 10 isrc code: DKGP51100310            
+11/04   15:13   Slot: 86 In work             
+11/04   15:14   Slot: 87 Operation was successfull            
+11/04   15:14   Slot: 87 upc/ean code: 5706274003758            
+11/04   15:14   Slot: 87 track: 01 isrc code: DKP6A1300101            
+11/04   15:14   Slot: 87 track: 02 isrc code: DKP6A1300102            
+11/04   15:14   Slot: 87 track: 03 isrc code: DKP6A1300103            
+11/04   15:14   Slot: 87 track: 04 isrc code: DKP6A1300104            
+11/04   15:14   Slot: 87 track: 05 isrc code: DKP6A1300105            
+11/04   15:14   Slot: 87 track: 06 isrc code: DKP6A1300106            
+11/04   15:14   Slot: 87 track: 07 isrc code: DKP6A1300107            
+11/04   15:14   Slot: 87 track: 08 isrc code: DKP6A1300108            
+11/04   15:14   Slot: 87 track: 09 isrc code: DKP6A1300109            
+11/04   15:14   Slot: 85 In work             
+11/04   15:16   Slot: 86 Operation was successfull            
+11/04   15:16   Slot: 86 upc/ean code: not found            
+11/04   15:16   Slot: 86 track: 01 isrc code: DK3KA1200501            
+11/04   15:16   Slot: 86 track: 02 isrc code: DK3KA1200502            
+11/04   15:16   Slot: 86 track: 03 isrc code: DK3KA1200503            
+11/04   15:16   Slot: 86 track: 04 isrc code: DK3KA1200504            
+11/04   15:16   Slot: 86 track: 05 isrc code: DK3KA1200505            
+11/04   15:16   Slot: 86 track: 06 isrc code: DK3KA1200506            
+11/04   15:16   Slot: 86 track: 07 isrc code: DK3KA1200507            
+11/04   15:16   Slot: 86 track: 08 isrc code: DK3KA1200508            
+11/04   15:16   Slot: 86 track: 09 isrc code: DK3KA1200509            
+11/04   15:16   Slot: 86 track: 10 isrc code: DK3KA1200510            
+11/04   15:16   Slot: 84 In work             
+11/04   15:17   Slot: 85 Operation was successfull            
+11/04   15:17   Slot: 85 upc/ean code: not found            
+11/04   15:17   Slot: 85 track: 01 isrc code: DKFU51000101            
+11/04   15:17   Slot: 85 track: 02 isrc code: DKFU51000102            
+11/04   15:17   Slot: 85 track: 03 isrc code: DKFU51000103            
+11/04   15:17   Slot: 85 track: 04 isrc code: DKFU51000104            
+11/04   15:17   Slot: 85 track: 05 isrc code: DKFU51000105            
+11/04   15:17   Slot: 85 track: 06 isrc code: DKFU51000106            
+11/04   15:17   Slot: 85 track: 07 isrc code: DKFU51000107            
+11/04   15:17   Slot: 85 track: 08 isrc code: DKFU51000108            
+11/04   15:17   Slot: 85 track: 09 isrc code: DKFU51000109            
+11/04   15:17   Slot: 85 track: 10 isrc code: DKFU51000110            
+11/04   15:17   Slot: 83 In work             
+11/04   15:18   Slot: 84 Operation was successfull            
+11/04   15:18   Slot: 84 upc/ean code: not found            
+11/04   15:18   Slot: 84 track: 01 isrc code: DKNW71200101            
+11/04   15:18   Slot: 84 track: 02 isrc code: DKNW71200102            
+11/04   15:18   Slot: 84 track: 03 isrc code: DKNW71200103            
+11/04   15:18   Slot: 84 track: 04 isrc code: DKNW71200104            
+11/04   15:18   Slot: 82 In work             
+11/04   15:18   Slot: 82 Operation was successfull            
+11/04   15:18   Slot: 82 upc/ean code: not found            
+11/04   15:18   Slot: 81 In work             
+11/04   15:20   Slot: 83 Operation was successfull            
+11/04   15:20   Slot: 83 upc/ean code: 0602537371587            
+11/04   15:20   Slot: 83 track: 01 isrc code: ITUM71300178            
+11/04   15:20   Slot: 83 track: 02 isrc code: ITUM71300179            
+11/04   15:20   Slot: 83 track: 03 isrc code: ITUM71300180            
+11/04   15:20   Slot: 83 track: 04 isrc code: ITUM71300181            
+11/04   15:20   Slot: 83 track: 05 isrc code: ITUM71300182            
+11/04   15:20   Slot: 83 track: 06 isrc code: ITUM71300183            
+11/04   15:20   Slot: 83 track: 07 isrc code: ITUM71300184            
+11/04   15:20   Slot: 83 track: 08 isrc code: ITUM71300185            
+11/04   15:20   Slot: 83 track: 09 isrc code: ITUM71300186            
+11/04   15:20   Slot: 83 track: 10 isrc code: ITUM71300187            
+11/04   15:20   Slot: 80 In work             
+11/04   15:22   Slot: 81 Operation was successfull            
+11/04   15:22   Slot: 81 upc/ean code: not found            
+11/04   15:22   Slot: 81 track: 01 isrc code: DKFAA1300101            
+11/04   15:22   Slot: 81 track: 02 isrc code: DKFAA1300102            
+11/04   15:22   Slot: 81 track: 03 isrc code: DKFAA1300103            
+11/04   15:22   Slot: 81 track: 04 isrc code: DKFAA1300104            
+11/04   15:22   Slot: 81 track: 05 isrc code: DKFAA1300105            
+11/04   15:22   Slot: 81 track: 06 isrc code: DKFAA1300106            
+11/04   15:22   Slot: 81 track: 07 isrc code: DKFAA1300107            
+11/04   15:22   Slot: 81 track: 08 isrc code: DKFAA1300108            
+11/04   15:22   Slot: 81 track: 09 isrc code: DKFAA1300109            
+11/04   15:22   Slot: 81 track: 10 isrc code: DKFAA1300110            
+11/04   15:22   Slot: 79 In work             
+11/04   15:22   Slot: 80 Operation was successfull            
+11/04   15:22   Slot: 80 upc/ean code: not found            
+11/04   15:22   Slot: 80 track: 01 isrc code: DKGX61300101            
+11/04   15:22   Slot: 80 track: 02 isrc code: DKGX61300102            
+11/04   15:22   Slot: 80 track: 03 isrc code: DKGX61300103            
+11/04   15:22   Slot: 80 track: 04 isrc code: DKGX61300104            
+11/04   15:22   Slot: 80 track: 05 isrc code: DKGX61300105            
+11/04   15:22   Slot: 80 track: 06 isrc code: DKGX61300106            
+11/04   15:22   Slot: 80 track: 07 isrc code: DKGX61300107            
+11/04   15:22   Slot: 80 track: 08 isrc code: DKGX61300108            
+11/04   15:22   Slot: 78 In work             
+11/04   15:24   Slot: 79 Operation was successfull            
+11/04   15:24   Slot: 79 upc/ean code: not found            
+11/04   15:24   Slot: 79 track: 01 isrc code: DKPJ91000101            
+11/04   15:24   Slot: 79 track: 02 isrc code: DKPJ91000102            
+11/04   15:24   Slot: 79 track: 03 isrc code: DKPJ91000103            
+11/04   15:24   Slot: 79 track: 04 isrc code: DKPJ91000104            
+11/04   15:24   Slot: 79 track: 05 isrc code: DKPJ91000105            
+11/04   15:24   Slot: 79 track: 06 isrc code: DKPJ91000106            
+11/04   15:24   Slot: 79 track: 07 isrc code: DKPJ91000107            
+11/04   15:24   Slot: 79 track: 08 isrc code: DKPJ91000108            
+11/04   15:24   Slot: 79 track: 09 isrc code: DKPJ91000109            
+11/04   15:24   Slot: 79 track: 10 isrc code: DKPJ91000110            
+11/04   15:24   Slot: 77 In work             
+11/04   15:25   Slot: 78 Operation was successfull            
+11/04   15:25   Slot: 78 upc/ean code: 5706725101316            
+11/04   15:25   Slot: 78 track: 01 isrc code: DK3KA1300101            
+11/04   15:25   Slot: 78 track: 02 isrc code: DK3KA1300102            
+11/04   15:25   Slot: 78 track: 03 isrc code: DK3KA1300103            
+11/04   15:25   Slot: 78 track: 04 isrc code: DK3KA1300104            
+11/04   15:25   Slot: 78 track: 05 isrc code: DK3KA1300105            
+11/04   15:25   Slot: 78 track: 06 isrc code: DK3KA1300106            
+11/04   15:25   Slot: 78 track: 07 isrc code: DK3KA1300107            
+11/04   15:25   Slot: 78 track: 08 isrc code: DK3KA1300108            
+11/04   15:25   Slot: 78 track: 09 isrc code: DK3KA1300109            
+11/04   15:25   Slot: 78 track: 10 isrc code: DK3KA1300110            
+11/04   15:25   Slot: 76 In work             
+11/04   15:27   Slot: 77 ******** Check generated output ********            
+11/04   15:27   Slot: 77 upc/ean code: not found            
+11/04   15:27   Slot: 77 track: 01 isrc code: DKVL91200501            
+11/04   15:27   Slot: 77 track: 02 isrc code: DKVL91200502            
+11/04   15:27   Slot: 77 track: 03 isrc code: DKVL91200503            
+11/04   15:27   Slot: 77 track: 04 isrc code: DKVL91200504            
+11/04   15:27   Slot: 77 track: 05 isrc code: DKVL91200505            
+11/04   15:27   Slot: 77 track: 06 isrc code: DKVL91200506            
+11/04   15:27   Slot: 77 track: 07 isrc code: DKVL91200507            
+11/04   15:27   Slot: 77 track: 08 isrc code: DKVL91200508            
+11/04   15:27   Slot: 77 track: 09 isrc code: DKVL91200509            
+11/04   15:27   Slot: 77 track: 10 isrc code: DKVL91200510            
+11/04   15:27   Slot: 77 track: 11 isrc code: DKVL91200511            
+11/04   15:27   Slot: 75 In work             
+11/04   15:28   Slot: 76 Operation was successfull            
+11/04   15:28   Slot: 76 upc/ean code: not found            
+11/04   15:28   Slot: 74 In work             
+11/04   15:29   Slot: 75 Operation was successfull            
+11/04   15:29   Slot: 75 upc/ean code: not found            
+11/04   15:29   Slot: 73 In work             
+11/04   15:31   Slot: 74 Operation was successfull            
+11/04   15:31   Slot: 74 upc/ean code: not found            
+11/04   15:31   Slot: 72 In work             
+11/04   15:33   Slot: 73 Operation was successfull            
+11/04   15:33   Slot: 73 upc/ean code: not found            
+11/04   15:33   Slot: 73 track: 01 isrc code: DKLE11300201            
+11/04   15:33   Slot: 73 track: 02 isrc code: DKLE11300202            
+11/04   15:33   Slot: 73 track: 03 isrc code: DKLE11300203            
+11/04   15:33   Slot: 73 track: 04 isrc code: DKLE11300204            
+11/04   15:33   Slot: 73 track: 05 isrc code: DKLE11300205            
+11/04   15:33   Slot: 73 track: 06 isrc code: DKLE11300206            
+11/04   15:33   Slot: 73 track: 07 isrc code: DKLE11300207            
+11/04   15:33   Slot: 73 track: 08 isrc code: DKLE11300208            
+11/04   15:33   Slot: 73 track: 09 isrc code: DKLE11300209            
+11/04   15:33   Slot: 73 track: 10 isrc code: DKLE11300210            
+11/04   15:33   Slot: 73 track: 11 isrc code: DKLE11300211            
+11/04   15:33   Slot: 73 track: 12 isrc code: DKLE11300212            
+11/04   15:33   Slot: 73 track: 13 isrc code: DKLE11300213            
+11/04   15:33   Slot: 73 track: 14 isrc code: DKLE11300214            
+11/04   15:33   Slot: 73 track: 15 isrc code: DKLE11300215            
+11/04   15:33   Slot: 73 track: 16 isrc code: DKLE11300216            
+11/04   15:33   Slot: 73 track: 17 isrc code: DKLE11300217            
+11/04   15:33   Slot: 73 track: 18 isrc code: DKLE11300218            
+11/04   15:33   Slot: 73 track: 19 isrc code: DKLE11300219            
+11/04   15:33   Slot: 73 track: 20 isrc code: DKLE11300220            
+11/04   15:33   Slot: 73 track: 21 isrc code: DKLE11300221            
+11/04   15:33   Slot: 71 In work             
+11/04   15:34   Slot: 71 Operation was successfull            
+11/04   15:34   Slot: 71 upc/ean code: not found            
+11/04   15:34   Slot: 71 track: 01 isrc code: DKRX51100201            
+11/04   15:34   Slot: 71 track: 02 isrc code: DKRX51100202            
+11/04   15:34   Slot: 71 track: 03 isrc code: DKRX51100203            
+11/04   15:34   Slot: 71 track: 04 isrc code: DKRX51100204            
+11/04   15:34   Slot: 70 In work             
+11/04   15:35   Slot: 72 Operation was successfull            
+11/04   15:35   Slot: 72 upc/ean code: not found            
+11/04   15:35   Slot: 72 track: 01 isrc code: DKXR51200101            
+11/04   15:35   Slot: 72 track: 02 isrc code: DKXR51200102            
+11/04   15:35   Slot: 72 track: 03 isrc code: DKXR51200103            
+11/04   15:35   Slot: 72 track: 04 isrc code: DKXR51200104            
+11/04   15:35   Slot: 72 track: 05 isrc code: DKXR51200105            
+11/04   15:35   Slot: 72 track: 06 isrc code: DKXR51200106            
+11/04   15:35   Slot: 72 track: 07 isrc code: DKXR51200107            
+11/04   15:35   Slot: 72 track: 08 isrc code: DKXR51200108            
+11/04   15:35   Slot: 72 track: 09 isrc code: DKXR51200109            
+11/04   15:35   Slot: 72 track: 10 isrc code: DKXR51200110            
+11/04   15:35   Slot: 72 track: 11 isrc code: DKXR51200111            
+11/04   15:35   Slot: 72 track: 12 isrc code: DKXR51200112            
+11/04   15:35   Slot: 72 track: 13 isrc code: DKXR51200113            
+11/04   15:35   Slot: 72 track: 14 isrc code: DKXR51200114            
+11/04   15:35   Slot: 72 track: 15 isrc code: DKXR51200115            
+11/04   15:35   Slot: 72 track: 16 isrc code: DKXR51200116            
+11/04   15:35   Slot: 72 track: 17 isrc code: DKXR51200117            
+11/04   15:35   Slot: 69 In work             
+11/04   15:37   Slot: 70 ******** Check generated output ********            
+11/04   15:37   Slot: 70 upc/ean code: not found            
+11/04   15:37   Slot: 70 track: 01 isrc code: DKSK41100101            
+11/04   15:37   Slot: 70 track: 02 isrc code: DKSK41100102            
+11/04   15:37   Slot: 70 track: 03 isrc code: DKSK41100103            
+11/04   15:37   Slot: 70 track: 04 isrc code: DKSK41100104            
+11/04   15:37   Slot: 70 track: 05 isrc code: DKSK41100105            
+11/04   15:37   Slot: 70 track: 06 isrc code: DKSK41100106            
+11/04   15:37   Slot: 70 track: 07 isrc code: DKSK41100107            
+11/04   15:37   Slot: 70 track: 08 isrc code: DKSK41100108            
+11/04   15:37   Slot: 70 track: 09 isrc code: DKSK41100109            
+11/04   15:37   Slot: 70 track: 10 isrc code: DKSK41100110            
+11/04   15:37   Slot: 68 In work             
+11/04   15:38   Slot: 69 Operation was successfull            
+11/04   15:38   Slot: 69 upc/ean code: not found            
+11/04   15:38   Slot: 69 track: 01 isrc code: DKXB51200101            
+11/04   15:38   Slot: 69 track: 02 isrc code: DKXB51200102            
+11/04   15:38   Slot: 69 track: 03 isrc code: DKXB51200103            
+11/04   15:38   Slot: 69 track: 04 isrc code: DKXB51200104            
+11/04   15:38   Slot: 69 track: 05 isrc code: DKXB51200105            
+11/04   15:38   Slot: 69 track: 06 isrc code: DKXB51200106            
+11/04   15:38   Slot: 69 track: 07 isrc code: DKXB51200107            
+11/04   15:38   Slot: 69 track: 08 isrc code: DKXB51200108            
+11/04   15:38   Slot: 69 track: 09 isrc code: DKXB51200109            
+11/04   15:38   Slot: 69 track: 10 isrc code: DKXB51200110            
+11/04   15:38   Slot: 69 track: 11 isrc code: DKXB51200111            
+11/04   15:38   Slot: 69 track: 12 isrc code: DKXB51200112            
+11/04   15:38   Slot: 69 track: 13 isrc code: DKXB51200113            
+11/04   15:38   Slot: 69 track: 14 isrc code: DKXB51200114            
+11/04   15:38   Slot: 69 track: 15 isrc code: DKXB51200115            
+11/04   15:38   Slot: 69 track: 16 isrc code: DKXB51200116            
+11/04   15:38   Slot: 69 track: 17 isrc code: DKXB51200117            
+11/04   15:38   Slot: 69 track: 18 isrc code: DKXB51200118            
+11/04   15:38   Slot: 69 track: 19 isrc code: DKXB51200119            
+11/04   15:38   Slot: 69 track: 20 isrc code: DKXB51200120            
+11/04   15:38   Slot: 69 track: 21 isrc code: DKXB51200121            
+11/04   15:38   Slot: 69 track: 22 isrc code: DKXB51200122            
+11/04   15:38   Slot: 69 track: 23 isrc code: DKXB51200123            
+11/04   15:38   Slot: 67 In work             
+11/04   15:39   Slot: 68 Operation was successfull            
+11/04   15:39   Slot: 68 upc/ean code: not found            
+11/04   15:39   Slot: 66 In work             
+11/04   15:40   Slot: 67 Operation was successfull            
+11/04   15:40   Slot: 67 upc/ean code: not found            
+11/04   15:40   Slot: 67 track: 01 isrc code: DKCJ30500103            
+11/04   15:40   Slot: 67 track: 02 isrc code: DKCJ30500201            
+11/04   15:40   Slot: 67 track: 03 isrc code: DKCJ30500202            
+11/04   15:40   Slot: 67 track: 04 isrc code: DKCJ30500203            
+11/04   15:40   Slot: 67 track: 05 isrc code: DKCJ30500204            
+11/04   15:40   Slot: 65 In work             
+11/04   15:43   Slot: 66 ******** Check generated output ********            
+11/04   15:43   Slot: 66 upc/ean code: not found            
+11/04   15:43   Slot: 66 track: 01 isrc code: DKUM11200101            
+11/04   15:43   Slot: 66 track: 02 isrc code: DKUM11200102            
+11/04   15:43   Slot: 66 track: 03 isrc code: DKUM11200103            
+11/04   15:43   Slot: 66 track: 04 isrc code: DKUM11200104            
+11/04   15:43   Slot: 66 track: 05 isrc code: DKUM11200105            
+11/04   15:43   Slot: 66 track: 06 isrc code: DKUM11200106            
+11/04   15:43   Slot: 66 track: 07 isrc code: DKUM11200107            
+11/04   15:43   Slot: 66 track: 08 isrc code: DKUM11200108            
+11/04   15:43   Slot: 66 track: 09 isrc code: DKUM11200109            
+11/04   15:43   Slot: 66 track: 10 isrc code: DKUM11200110            
+11/04   15:43   Slot: 66 track: 11 isrc code: DKUM11200111            
+11/04   15:43   Slot: 66 track: 12 isrc code: DKUM11200112            
+11/04   15:43   Slot: 64 In work             
+11/04   15:43   Slot: 65 Operation was successfull            
+11/04   15:43   Slot: 65 upc/ean code: not found            
+11/04   15:43   Slot: 65 track: 01 isrc code: DK3KA0700901            
+11/04   15:43   Slot: 65 track: 02 isrc code: DK3KA0700902            
+11/04   15:43   Slot: 65 track: 03 isrc code: DK3KA0700903            
+11/04   15:43   Slot: 65 track: 04 isrc code: DK3KA0700904            
+11/04   15:43   Slot: 65 track: 05 isrc code: DK3KA0700905            
+11/04   15:43   Slot: 65 track: 06 isrc code: DK3KA0700906            
+11/04   15:43   Slot: 65 track: 07 isrc code: DK3KA0700907            
+11/04   15:43   Slot: 65 track: 08 isrc code: DK3KA0700908            
+11/04   15:43   Slot: 65 track: 09 isrc code: DK3KA0700909            
+11/04   15:43   Slot: 65 track: 10 isrc code: DK3KA0700910            
+11/04   15:43   Slot: 65 track: 11 isrc code: DK3KA0700911            
+11/04   15:43   Slot: 63 In work             
+11/04   15:45   Slot: 64 Operation was successfull            
+11/04   15:45   Slot: 64 upc/ean code: not found            
+11/04   15:45   Slot: 64 track: 01 isrc code: DKGK41000405            
+11/04   15:45   Slot: 64 track: 02 isrc code: DKGK41000501            
+11/04   15:45   Slot: 64 track: 03 isrc code: DKGK41000408            
+11/04   15:45   Slot: 64 track: 04 isrc code: DKGK41000502            
+11/04   15:45   Slot: 64 track: 05 isrc code: DKGK41000503            
+11/04   15:45   Slot: 64 track: 06 isrc code: DKGK41000504            
+11/04   15:45   Slot: 64 track: 07 isrc code: DKGK41000505            
+11/04   15:45   Slot: 62 In work             
+11/04   15:47   Slot: 62 Operation was successfull            
+11/04   15:47   Slot: 62 upc/ean code: not found            
+11/04   15:47   Slot: 62 track: 01 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 62 track: 02 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 62 track: 03 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 62 track: 04 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 62 track: 05 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 62 track: 06 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 62 track: 07 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 62 track: 08 isrc code: MTKDW1212345            
+11/04   15:47   Slot: 61 In work             
+11/04   15:47   Slot: 63 Operation was successfull            
+11/04   15:47   Slot: 63 upc/ean code: not found            
+11/04   15:47   Slot: 63 track: 01 isrc code: BEY910300006            
+11/04   15:47   Slot: 63 track: 02 isrc code: BEY910300007            
+11/04   15:47   Slot: 63 track: 03 isrc code: BEY910300008            
+11/04   15:47   Slot: 63 track: 04 isrc code: BEY910300009            
+11/04   15:47   Slot: 63 track: 05 isrc code: BEY910300010            
+11/04   15:47   Slot: 63 track: 06 isrc code: BEY910300011            
+11/04   15:47   Slot: 63 track: 07 isrc code: BEY910300012            
+11/04   15:47   Slot: 63 track: 08 isrc code: BEY910300013            
+11/04   15:47   Slot: 63 track: 09 isrc code: BEY910300014            
+11/04   15:47   Slot: 63 track: 10 isrc code: BEY910300015            
+11/04   15:47   Slot: 63 track: 11 isrc code: BEY910300016            
+11/04   15:47   Slot: 63 track: 12 isrc code: BEY910300017            
+11/04   15:47   Slot: 60 In work             
+11/04   15:47   Slot: 60 Operation was successfull            
+11/04   15:47   Slot: 60 upc/ean code: not found            
+11/04   15:47   Slot: 59 In work             
+11/04   15:49   Slot: 59 ******** Check generated output ********            
+11/04   15:49   Slot: 59 upc/ean code: not found            
+11/04   15:49   Slot: 58 In work             
+11/04   15:51   Slot: 58 Operation was successfull            
+11/04   15:51   Slot: 58 upc/ean code: not found            
+11/04   15:51   Slot: 58 track: 01 isrc code: DKGP51200201            
+11/04   15:51   Slot: 58 track: 02 isrc code: DKGP51200202            
+11/04   15:51   Slot: 58 track: 03 isrc code: DKGP51200203            
+11/04   15:51   Slot: 58 track: 04 isrc code: DKGP51200204            
+11/04   15:51   Slot: 58 track: 05 isrc code: DKGP51200205            
+11/04   15:51   Slot: 58 track: 06 isrc code: DKGP51200206            
+11/04   15:51   Slot: 57 In work             
+11/04   15:51   Slot: 61 Operation was successfull            
+11/04   15:51   Slot: 61 upc/ean code: not found            
+11/04   15:51   Slot: 56 In work             
+11/04   15:54   Slot: 57 Operation was successfull            
+11/04   15:54   Slot: 57 upc/ean code: not found            
+11/04   15:54   Slot: 57 track: 01 isrc code: DK3KA1100901            
+11/04   15:54   Slot: 57 track: 02 isrc code: DK3KA1100902            
+11/04   15:54   Slot: 57 track: 03 isrc code: DK3KA1100903            
+11/04   15:54   Slot: 57 track: 04 isrc code: DK3KA1100904            
+11/04   15:54   Slot: 57 track: 05 isrc code: DK3KA1100905            
+11/04   15:54   Slot: 57 track: 06 isrc code: DK3KA1100906            
+11/04   15:54   Slot: 57 track: 07 isrc code: DK3KA1100907            
+11/04   15:54   Slot: 57 track: 08 isrc code: DK3KA1100908            
+11/04   15:54   Slot: 57 track: 09 isrc code: DK3KA1100909            
+11/04   15:54   Slot: 57 track: 10 isrc code: DK3KA1100910            
+11/04   15:54   Slot: 57 track: 11 isrc code: DK3KA1100911            
+11/04   15:54   Slot: 57 track: 12 isrc code: DK3KA1100912            
+11/04   15:54   Slot: 57 track: 13 isrc code: DK3KA1101012            
+11/04   15:54   Slot: 55 In work             
+11/04   15:54   Slot: 56 ******** Check generated output ********            
+11/04   15:54   Slot: 56 upc/ean code: not found            
+11/04   15:54   Slot: 56 track: 01 isrc code: DKABA1000139            
+11/04   15:54   Slot: 56 track: 02 isrc code: DKABA1000140            
+11/04   15:54   Slot: 56 track: 03 isrc code: DKABA1000141            
+11/04   15:54   Slot: 56 track: 04 isrc code: DKABA1000142            
+11/04   15:54   Slot: 56 track: 05 isrc code: DKABA1000143            
+11/04   15:54   Slot: 56 track: 06 isrc code: DKABA1000144            
+11/04   15:54   Slot: 56 track: 07 isrc code: DKABA1000145            
+11/04   15:54   Slot: 56 track: 08 isrc code: DKABA1000146            
+11/04   15:54   Slot: 56 track: 09 isrc code: DKABA1000147            
+11/04   15:54   Slot: 56 track: 10 isrc code: DKABA1000148            
+11/04   15:55   Slot: 54 In work             
+11/04   15:58   Slot: 54 Operation was successfull            
+11/04   15:58   Slot: 54 upc/ean code: not found            
+11/04   15:58   Slot: 54 track: 01 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 02 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 03 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 04 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 05 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 06 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 07 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 08 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 09 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 10 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 11 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 54 track: 12 isrc code: MTKDW1212345            
+11/04   15:58   Slot: 53 In work             
+11/04   15:58   Slot: 55 Operation was successfull            
+11/04   15:58   Slot: 55 upc/ean code: not found            
+11/04   15:58   Slot: 55 track: 01 isrc code: DKABA0800440            
+11/04   15:58   Slot: 55 track: 02 isrc code: DKABA0800441            
+11/04   15:58   Slot: 55 track: 03 isrc code: DKABA0800442            
+11/04   15:58   Slot: 55 track: 04 isrc code: DKABA0800443            
+11/04   15:58   Slot: 55 track: 05 isrc code: DKABA0800444            
+11/04   15:58   Slot: 55 track: 06 isrc code: DKABA0800452            
+11/04   15:58   Slot: 55 track: 07 isrc code: DKABA0800445            
+11/04   15:58   Slot: 55 track: 08 isrc code: DKABA0800446            
+11/04   15:58   Slot: 55 track: 09 isrc code: DKABA0800447            
+11/04   15:58   Slot: 55 track: 10 isrc code: DKABA0800448            
+11/04   15:58   Slot: 55 track: 11 isrc code: DKABA0800449            
+11/04   15:58   Slot: 55 track: 12 isrc code: DKABA0800450            
+11/04   15:58   Slot: 55 track: 13 isrc code: DKABA0800451            
+11/04   15:58   Slot: 52 In work             
+11/04   16:00   Slot: 53 Operation was successfull            
+11/04   16:00   Slot: 53 upc/ean code: not found            
+11/04   16:00   Slot: 51 In work             
+11/04   16:02   Slot: 52 Operation was successfull            
+11/04   16:02   Slot: 52 upc/ean code: not found            
+11/04   16:02   Slot: 52 track: 01 isrc code: DKGB41300101            
+11/04   16:02   Slot: 52 track: 02 isrc code: DKGB41300102            
+11/04   16:02   Slot: 52 track: 03 isrc code: DKGB41300103            
+11/04   16:02   Slot: 52 track: 04 isrc code: DKGB41300104            
+11/04   16:02   Slot: 52 track: 05 isrc code: DKGB41300105            
+11/04   16:02   Slot: 52 track: 06 isrc code: DKGB41300106            
+11/04   16:02   Slot: 52 track: 07 isrc code: DKGB41300107            
+11/04   16:02   Slot: 52 track: 08 isrc code: DKGB41300108            
+11/04   16:02   Slot: 52 track: 09 isrc code: DKGB41300109            
+11/04   16:02   Slot: 52 track: 10 isrc code: DKGB41300110            
+11/04   16:02   Slot: 52 track: 11 isrc code: DKGB41300111            
+11/04   16:02   Slot: 52 track: 12 isrc code: DKGB41300112            
+11/04   16:02   Slot: 52 track: 13 isrc code: DKGB41300113            
+11/04   16:02   Slot: 52 track: 14 isrc code: DKGB41300114            
+11/04   16:02   Slot: 52 track: 15 isrc code: DKGB41300115            
+11/04   16:02   Slot: 52 track: 16 isrc code: DKGB41300116            
+11/04   16:02   Slot: 52 track: 17 isrc code: DKGB41300117            
+11/04   16:02   Slot: 50 In work             
+11/04   16:05   Slot: 51 ******** Check generated output ********            
+11/04   16:05   Slot: 51 upc/ean code: not found            
+11/04   16:05   Slot: 51 track: 01 isrc code: DKEFA1301501            
+11/04   16:05   Slot: 51 track: 02 isrc code: DKEFA1301502            
+11/04   16:05   Slot: 51 track: 03 isrc code: DKEFA1301503            
+11/04   16:05   Slot: 51 track: 04 isrc code: DKEFA1301504            
+11/04   16:05   Slot: 51 track: 05 isrc code: DKEFA1301505            
+11/04   16:05   Slot: 51 track: 06 isrc code: DKEFA1301506            
+11/04   16:05   Slot: 51 track: 07 isrc code: DKEFA1301507            
+11/04   16:05   Slot: 51 track: 08 isrc code: DKEFA1301508            
+11/04   16:05   Slot: 51 track: 09 isrc code: DKEFA1301509            
+11/04   16:05   Slot: 51 track: 10 isrc code: DKEFA1301510            
+11/04   16:05   Slot: 51 track: 11 isrc code: DKEFA1301511            
+11/04   16:05   Slot: 51 track: 12 isrc code: DKEFA1301512            
+11/04   16:05   Slot: 51 track: 13 isrc code: DKEFA1301513            
+11/04   16:05   Slot: 51 track: 14 isrc code: DKEFA1301514            
+11/04   16:05   Slot: 51 track: 15 isrc code: DKEFA1301515            
+11/04   16:05   Slot: 51 track: 16 isrc code: DKEFA1301516            
+11/04   16:05   Slot: 51 track: 17 isrc code: DKEFA1301517            
+11/04   16:05   Slot: 49 In work             
+11/04   16:06   Slot: 50 Operation was successfull            
+11/04   16:06   Slot: 50 upc/ean code: not found            
+11/04   16:06   Slot: 50 track: 01 isrc code: DKEFA1301601            
+11/04   16:06   Slot: 50 track: 02 isrc code: DKEFA1301602            
+11/04   16:06   Slot: 50 track: 03 isrc code: DKEFA1301603            
+11/04   16:06   Slot: 50 track: 04 isrc code: DKEFA1301604            
+11/04   16:06   Slot: 50 track: 05 isrc code: DKEFA1301605            
+11/04   16:06   Slot: 50 track: 06 isrc code: DKEFA1301606            
+11/04   16:06   Slot: 50 track: 07 isrc code: DKEFA1301607            
+11/04   16:06   Slot: 50 track: 08 isrc code: DKEFA1301608            
+11/04   16:06   Slot: 50 track: 09 isrc code: DKEFA1301609            
+11/04   16:06   Slot: 50 track: 10 isrc code: DKEFA1301610            
+11/04   16:06   Slot: 50 track: 11 isrc code: DKEFA1301611            
+11/04   16:06   Slot: 50 track: 12 isrc code: DKEFA1301612            
+11/04   16:06   Slot: 48 In work             
+11/04   16:07   Slot: 49 Operation was successfull            
+11/04   16:07   Slot: 49 upc/ean code: not found            
+11/04   16:07   Slot: 47 In work             
+11/04   16:09   Slot: 48 Operation was successfull            
+11/04   16:09   Slot: 48 upc/ean code: not found            
+11/04   16:09   Slot: 46 In work             
+11/04   16:10   Slot: 47 Operation was successfull            
+11/04   16:10   Slot: 47 upc/ean code: not found            
+11/04   16:10   Slot: 47 track: 01 isrc code: DKQY71000101            
+11/04   16:10   Slot: 47 track: 02 isrc code: DKQY71000102            
+11/04   16:10   Slot: 47 track: 03 isrc code: DKQY71000103            
+11/04   16:10   Slot: 47 track: 04 isrc code: DKQY71000104            
+11/04   16:10   Slot: 47 track: 05 isrc code: DKQY71000105            
+11/04   16:10   Slot: 47 track: 06 isrc code: DKQY71000106            
+11/04   16:10   Slot: 47 track: 07 isrc code: DKQY71000107            
+11/04   16:10   Slot: 45 In work             
+11/04   16:11   Slot: 46 Operation was successfull            
+11/04   16:11   Slot: 46 upc/ean code: not found            
+11/04   16:11   Slot: 46 track: 01 isrc code: DKSG61100101            
+11/04   16:11   Slot: 46 track: 02 isrc code: DKSG61100102            
+11/04   16:11   Slot: 46 track: 03 isrc code: DKSG61100103            
+11/04   16:11   Slot: 46 track: 04 isrc code: DKSG61100104            
+11/04   16:11   Slot: 46 track: 05 isrc code: DKSG61100105            
+11/04   16:11   Slot: 46 track: 06 isrc code: DKSG61100106            
+11/04   16:11   Slot: 46 track: 07 isrc code: DKSG61100107            
+11/04   16:11   Slot: 46 track: 08 isrc code: DKSG61100108            
+11/04   16:11   Slot: 46 track: 09 isrc code: DKSG61100109            
+11/04   16:11   Slot: 46 track: 10 isrc code: DKSG61100110            
+11/04   16:11   Slot: 44 In work             
+11/04   16:12   Slot: 44 Operation was successfull            
+11/04   16:12   Slot: 44 upc/ean code: not found            
+11/04   16:12   Slot: 44 track: 01 isrc code: DKGH71300101            
+11/04   16:12   Slot: 43 In work             
+11/04   16:13   Slot: 45 Operation was successfull            
+11/04   16:13   Slot: 45 upc/ean code: 9788790967482            
+11/04   16:13   Slot: 45 track: 01 isrc code: DK7JA1200101            
+11/04   16:13   Slot: 45 track: 02 isrc code: DK7JA1200102            
+11/04   16:13   Slot: 45 track: 03 isrc code: DK7JA1200103            
+11/04   16:13   Slot: 45 track: 04 isrc code: DK7JA1200104            
+11/04   16:13   Slot: 45 track: 05 isrc code: DK7JA1200105            
+11/04   16:13   Slot: 45 track: 06 isrc code: DK7JA1200106            
+11/04   16:13   Slot: 45 track: 07 isrc code: DK7JA1200107            
+11/04   16:13   Slot: 45 track: 08 isrc code: DK7JA1200108            
+11/04   16:13   Slot: 45 track: 09 isrc code: DK7JA1200109            
+11/04   16:13   Slot: 45 track: 10 isrc code: DK7JA1200110            
+11/04   16:13   Slot: 45 track: 11 isrc code: DK7JA1200111            
+11/04   16:13   Slot: 45 track: 12 isrc code: DK7JA1200112            
+11/04   16:13   Slot: 45 track: 13 isrc code: DK7JA1200113            
+11/04   16:13   Slot: 45 track: 14 isrc code: DK7JA1200114            
+11/04   16:13   Slot: 42 In work             
+11/04   16:15   Slot: 42 Operation was successfull            
+11/04   16:15   Slot: 42 upc/ean code: not found            
+11/04   16:15   Slot: 42 track: 01 isrc code: DKKY31200101            
+11/04   16:15   Slot: 42 track: 02 isrc code: DKKY31200102            
+11/04   16:15   Slot: 42 track: 03 isrc code: DKKY31200103            
+11/04   16:15   Slot: 42 track: 04 isrc code: DKKY31200104            
+11/04   16:15   Slot: 42 track: 05 isrc code: DKKY31200105            
+11/04   16:15   Slot: 42 track: 06 isrc code: DKKY31200106            
+11/04   16:15   Slot: 42 track: 07 isrc code: DKKY31200107            
+11/04   16:15   Slot: 42 track: 08 isrc code: DKKY31200108            
+11/04   16:15   Slot: 42 track: 09 isrc code: DKKY31200109            
+11/04   16:15   Slot: 42 track: 10 isrc code: DKKY31200110            
+11/04   16:15   Slot: 41 In work             
+11/04   16:16   Slot: 43 Operation was successfull            
+11/04   16:16   Slot: 43 upc/ean code: not found            
+11/04   16:16   Slot: 43 track: 01 isrc code: DKNNA1100101            
+11/04   16:16   Slot: 43 track: 02 isrc code: DKNNA1100102            
+11/04   16:16   Slot: 43 track: 03 isrc code: DKNNA1100103            
+11/04   16:16   Slot: 43 track: 04 isrc code: DKNNA1100104            
+11/04   16:16   Slot: 43 track: 05 isrc code: DKNNA1100105            
+11/04   16:16   Slot: 43 track: 06 isrc code: DKNNA1100106            
+11/04   16:16   Slot: 43 track: 07 isrc code: DKNNA1100107            
+11/04   16:16   Slot: 43 track: 08 isrc code: DKNNA1100108            
+11/04   16:16   Slot: 43 track: 09 isrc code: DKNNA1100109            
+11/04   16:16   Slot: 43 track: 10 isrc code: DKNNA1100110            
+11/04   16:16   Slot: 43 track: 11 isrc code: DKNNA1100111            
+11/04   16:16   Slot: 43 track: 12 isrc code: DKNNA1100112            
+11/04   16:16   Slot: 43 track: 13 isrc code: DKNNA1100113            
+11/04   16:16   Slot: 40 In work             
+11/04   16:18   Slot: 41 Operation was successfull            
+11/04   16:18   Slot: 41 upc/ean code: not found            
+11/04   16:18   Slot: 41 track: 01 isrc code: DKSC21200101            
+11/04   16:18   Slot: 41 track: 02 isrc code: DKSC21200102            
+11/04   16:18   Slot: 41 track: 03 isrc code: DKSC21200103            
+11/04   16:18   Slot: 41 track: 04 isrc code: DKSC21200104            
+11/04   16:18   Slot: 41 track: 05 isrc code: DKSC21200105            
+11/04   16:18   Slot: 41 track: 06 isrc code: DKSC21200106            
+11/04   16:18   Slot: 41 track: 07 isrc code: DKSC21200107            
+11/04   16:18   Slot: 41 track: 08 isrc code: DKSC21200108            
+11/04   16:18   Slot: 41 track: 09 isrc code: DKSC21200109            
+11/04   16:18   Slot: 41 track: 10 isrc code: DKSC21200110            
+11/04   16:18   Slot: 39 In work             
+11/04   16:18   Slot: 40 Operation was successfull            
+11/04   16:18   Slot: 40 upc/ean code: not found            
+11/04   16:18   Slot: 40 track: 01 isrc code: DKXY41200101            
+11/04   16:18   Slot: 40 track: 02 isrc code: DKXY41200102            
+11/04   16:18   Slot: 40 track: 03 isrc code: DKXY41200103            
+11/04   16:18   Slot: 40 track: 04 isrc code: DKXY41200104            
+11/04   16:18   Slot: 40 track: 05 isrc code: DKXY41200105            
+11/04   16:18   Slot: 40 track: 06 isrc code: DKXY41200106            
+11/04   16:18   Slot: 40 track: 07 isrc code: DKXY41200107            
+11/04   16:18   Slot: 40 track: 08 isrc code: DKXY41200108            
+11/04   16:18   Slot: 40 track: 09 isrc code: DKXY41200109            
+11/04   16:18   Slot: 40 track: 10 isrc code: DKXY41200110            
+11/04   16:18   Slot: 38 In work             
+11/04   16:20   Slot: 39 Operation was successfull            
+11/04   16:20   Slot: 39 upc/ean code: not found            
+11/04   16:20   Start ISO Extraction in Folder             
+11/04   16:20   Slot: 37 In work             
+11/04   16:20   Slot: 38 Operation was successfull            
+11/04   16:20   Slot: 38 upc/ean code: not found            
+11/04   16:20   Slot: 38 track: 01 isrc code: DKTF11100101            
+11/04   16:20   Slot: 38 track: 02 isrc code: DKTF11100102            
+11/04   16:20   Slot: 38 track: 03 isrc code: DKTF11100103            
+11/04   16:20   Slot: 38 track: 04 isrc code: DKTF11100104            
+11/04   16:20   Slot: 38 track: 05 isrc code: DKTF11100105            
+11/04   16:20   Slot: 38 track: 06 isrc code: DKTF11100106            
+11/04   16:20   Slot: 38 track: 07 isrc code: DKTF11100107            
+11/04   16:20   Slot: 38 track: 08 isrc code: DKTF11100108            
+11/04   16:20   Slot: 38 track: 09 isrc code: DKTF11100109            
+11/04   16:20   Slot: 36 In work             
+11/04   16:23   Slot: 37 Operation was successfull            
+11/04   16:23   Slot: 37 upc/ean code: 5707785003640            
+11/04   16:23   Slot: 37 track: 01 isrc code: DKBA31300101            
+11/04   16:23   Slot: 37 track: 02 isrc code: DKBA31300102            
+11/04   16:23   Slot: 37 track: 03 isrc code: DKBA31300103            
+11/04   16:23   Slot: 37 track: 04 isrc code: DKBA31300104            
+11/04   16:23   Slot: 37 track: 05 isrc code: DKBA31300105            
+11/04   16:23   Slot: 37 track: 06 isrc code: DKBA31300106            
+11/04   16:23   Slot: 37 track: 07 isrc code: DKBA31300107            
+11/04   16:23   Slot: 35 In work             
+11/04   16:24   Slot: 36 Operation was successfull            
+11/04   16:24   Slot: 36 upc/ean code: not found            
+11/04   16:24   Slot: 34 In work             
+11/04   16:26   Slot: 35 Operation was successfull            
+11/04   16:26   Slot: 35 upc/ean code: not found            
+11/04   16:26   Slot: 33 In work             
+11/04   16:28   Slot: 34 Operation was successfull            
+11/04   16:28   Slot: 34 upc/ean code: not found            
+11/04   16:28   Slot: 32 In work             
+11/04   16:29   Slot: 32 Operation was successfull            
+11/04   16:29   Slot: 32 upc/ean code: not found            
+11/04   16:29   Slot: 31 In work             
+11/04   16:30   Slot: 33 Operation was successfull            
+11/04   16:30   Slot: 33 upc/ean code: not found            
+11/04   16:30   Slot: 30 In work             
+11/04   16:31   Slot: 30 Operation was successfull            
+11/04   16:31   Slot: 30 upc/ean code: not found            
+11/04   16:31   Slot: 29 In work             
+11/04   16:32   Slot: 31 Operation was successfull            
+11/04   16:32   Slot: 31 upc/ean code: not found            
+11/04   16:32   Slot: 31 track: 01 isrc code: DKFR91300201            
+11/04   16:32   Slot: 31 track: 02 isrc code: DKFR91300202            
+11/04   16:32   Slot: 31 track: 03 isrc code: DKFR91300203            
+11/04   16:32   Slot: 31 track: 04 isrc code: DKFR91300204            
+11/04   16:32   Slot: 31 track: 05 isrc code: DKFR91300205            
+11/04   16:32   Slot: 31 track: 06 isrc code: DKFR91300206            
+11/04   16:32   Slot: 31 track: 07 isrc code: DKFR91300207            
+11/04   16:32   Slot: 31 track: 08 isrc code: DKFR91300208            
+11/04   16:32   Slot: 31 track: 09 isrc code: DKFR91300209            
+11/04   16:32   Slot: 31 track: 10 isrc code: DKFR91300210            
+11/04   16:32   Slot: 31 track: 11 isrc code: DKFR91300211            
+11/04   16:32   Slot: 31 track: 12 isrc code: DKFR91300212            
+11/04   16:32   Slot: 31 track: 13 isrc code: DKFR91300213            
+11/04   16:32   Slot: 31 track: 14 isrc code: DKFR91300214            
+11/04   16:32   Slot: 28 In work             
+11/04   16:33   Slot: 29 Operation was successfull            
+11/04   16:33   Slot: 29 upc/ean code: 5700004004220            
+11/04   16:33   Slot: 29 track: 01 isrc code: DKTU41300101            
+11/04   16:33   Slot: 29 track: 02 isrc code: DKTU41300102            
+11/04   16:33   Slot: 29 track: 03 isrc code: DKTU41300103            
+11/04   16:33   Slot: 29 track: 04 isrc code: DKTU41300104            
+11/04   16:33   Slot: 29 track: 05 isrc code: DKTU41300105            
+11/04   16:33   Slot: 27 In work             
+11/04   16:35   Slot: 28 Operation was successfull            
+11/04   16:35   Slot: 28 upc/ean code: not found            
+11/04   16:35   Slot: 28 track: 01 isrc code: DKWK51200101            
+11/04   16:35   Slot: 28 track: 02 isrc code: DKWK51200102            
+11/04   16:35   Slot: 28 track: 03 isrc code: DKWK51200103            
+11/04   16:35   Slot: 28 track: 04 isrc code: DKWK51200104            
+11/04   16:35   Slot: 28 track: 05 isrc code: DKWK51200105            
+11/04   16:35   Slot: 28 track: 06 isrc code: DKWK51200106            
+11/04   16:35   Slot: 28 track: 07 isrc code: DKWK51200107            
+11/04   16:35   Slot: 28 track: 08 isrc code: DKWK51200108            
+11/04   16:35   Slot: 28 track: 09 isrc code: DKWK51200109            
+11/04   16:35   Slot: 28 track: 10 isrc code: DKWK51200110            
+11/04   16:35   Slot: 26 In work             
+11/04   16:35   Slot: 27 Operation was successfull            
+11/04   16:35   Slot: 27 upc/ean code: not found            
+11/04   16:35   Slot: 25 In work             
+11/04   16:36   Slot: 25 Operation was successfull            
+11/04   16:36   Slot: 25 upc/ean code: not found            
+11/04   16:36   Slot: 24 In work             
+11/04   16:37   Slot: 26 Operation was successfull            
+11/04   16:37   Slot: 26 upc/ean code: not found            
+11/04   16:37   Slot: 26 track: 01 isrc code: DKEMA1301301            
+11/04   16:37   Slot: 26 track: 02 isrc code: DKEMA1301302            
+11/04   16:37   Slot: 26 track: 03 isrc code: DKEMA1301303            
+11/04   16:37   Slot: 26 track: 04 isrc code: DKEMA1301304            
+11/04   16:37   Slot: 26 track: 05 isrc code: DKEMA1301305            
+11/04   16:37   Slot: 26 track: 06 isrc code: DKEMA1301306            
+11/04   16:37   Slot: 26 track: 07 isrc code: DKEMA1301307            
+11/04   16:37   Slot: 26 track: 08 isrc code: DKEMA1301308            
+11/04   16:37   Slot: 26 track: 09 isrc code: DKEMA1301309            
+11/04   16:37   Slot: 26 track: 10 isrc code: DKEMA1301310            
+11/04   16:37   Slot: 26 track: 11 isrc code: DKEMA1301311            
+11/04   16:37   Slot: 26 track: 12 isrc code: DKEMA1301312            
+11/04   16:37   Slot: 23 In work             
+11/04   16:39   Slot: 24 Operation was successfull            
+11/04   16:39   Slot: 24 upc/ean code: not found            
+11/04   16:39   Slot: 24 track: 01 isrc code: DKFU50900201            
+11/04   16:39   Slot: 24 track: 02 isrc code: DKFU50900202            
+11/04   16:39   Slot: 24 track: 03 isrc code: DKFU50900203            
+11/04   16:39   Slot: 24 track: 04 isrc code: DKFU50900204            
+11/04   16:39   Slot: 24 track: 05 isrc code: DKFU50900205            
+11/04   16:39   Slot: 24 track: 06 isrc code: DKFU50900206            
+11/04   16:39   Slot: 24 track: 07 isrc code: DKFU50900207            
+11/04   16:39   Slot: 24 track: 08 isrc code: DKFU50900208            
+11/04   16:39   Slot: 24 track: 09 isrc code: DKFU50900209            
+11/04   16:39   Slot: 24 track: 10 isrc code: DKFU50900210            
+11/04   16:39   Slot: 24 track: 11 isrc code: DKFU50900211            
+11/04   16:39   Slot: 24 track: 12 isrc code: DKFU50900212            
+11/04   16:39   Slot: 22 In work             
+11/04   16:41   Slot: 23 Operation was successfull            
+11/04   16:41   Slot: 23 upc/ean code: not found            
+11/04   16:41   Slot: 23 track: 01 isrc code: DKPP41000101            
+11/04   16:41   Slot: 23 track: 02 isrc code: DKPP41000102            
+11/04   16:41   Slot: 23 track: 03 isrc code: DKPP41000103            
+11/04   16:41   Slot: 23 track: 04 isrc code: DKPP41000104            
+11/04   16:41   Slot: 23 track: 05 isrc code: DKPP41000105            
+11/04   16:41   Slot: 23 track: 06 isrc code: DKPP41000106            
+11/04   16:41   Slot: 23 track: 07 isrc code: DKPP41000107            
+11/04   16:41   Slot: 23 track: 08 isrc code: DKPP41000108            
+11/04   16:41   Slot: 23 track: 09 isrc code: DKPP41000109            
+11/04   16:41   Slot: 23 track: 10 isrc code: DKPP41000110            
+11/04   16:41   Slot: 23 track: 11 isrc code: DKPP41000111            
+11/04   16:41   Slot: 23 track: 12 isrc code: DKPP41000112            
+11/04   16:41   Slot: 21 In work             
+11/04   16:41   Slot: 22 Operation was successfull            
+11/04   16:41   Slot: 22 upc/ean code: not found            
+11/04   16:41   Slot: 20 In work             
+11/04   16:44   Slot: 21 Operation was successfull            
+11/04   16:44   Slot: 21 upc/ean code: not found            
+11/04   16:44   Slot: 19 In work             
+11/04   16:44   Slot: 20 ******** Check generated output ********            
+11/04   16:44   Slot: 20 upc/ean code: 5707471019405            
+11/04   16:44   Slot: 20 track: 01 isrc code: DKRJ21000101            
+11/04   16:44   Slot: 20 track: 02 isrc code: DKRJ21000102            
+11/04   16:44   Slot: 20 track: 03 isrc code: DKRJ21000103            
+11/04   16:44   Slot: 20 track: 04 isrc code: DKRJ21000104            
+11/04   16:44   Slot: 20 track: 05 isrc code: DKRJ21000105            
+11/04   16:44   Slot: 20 track: 06 isrc code: DKRJ21000106            
+11/04   16:44   Slot: 20 track: 07 isrc code: DKRJ21000107            
+11/04   16:44   Slot: 20 track: 08 isrc code: DKRJ21000108            
+11/04   16:44   Slot: 20 track: 09 isrc code: DKRJ21000109            
+11/04   16:44   Slot: 20 track: 10 isrc code: DKRJ21000110            
+11/04   16:44   Slot: 18 In work             
+11/04   16:46   Slot: 19 ******** Check generated output ********            
+11/04   16:46   Slot: 19 upc/ean code: not found            
+11/04   16:46   Slot: 19 track: 01 isrc code: DKVJ21300301            
+11/04   16:46   Slot: 19 track: 02 isrc code: DKVJ21300302            
+11/04   16:46   Slot: 19 track: 03 isrc code: DKVJ21300303            
+11/04   16:46   Slot: 19 track: 04 isrc code: DKVJ21300201            
+11/04   16:46   Slot: 19 track: 05 isrc code: DKVJ21300304            
+11/04   16:46   Slot: 19 track: 06 isrc code: DKVJ21300305            
+11/04   16:46   Slot: 19 track: 07 isrc code: DKVJ21300306            
+11/04   16:46   Slot: 19 track: 08 isrc code: DKVJ21300307            
+11/04   16:46   Slot: 19 track: 09 isrc code: DKVJ21300308            
+11/04   16:46   Slot: 19 track: 10 isrc code: DKVJ21300101            
+11/04   16:46   Slot: 19 track: 11 isrc code: DKVJ21300309            
+11/04   16:46   Slot: 17 In work             
+11/04   16:48   Slot: 18 Operation was successfull            
+11/04   16:48   Slot: 18 upc/ean code: not found            
+11/04   16:48   Slot: 18 track: 01 isrc code: DKWX61200201            
+11/04   16:48   Slot: 18 track: 02 isrc code: DKWX61200202            
+11/04   16:48   Slot: 18 track: 03 isrc code: DKWX61200203            
+11/04   16:48   Slot: 18 track: 04 isrc code: DKWX61200204            
+11/04   16:48   Slot: 18 track: 05 isrc code: DKWX61200205            
+11/04   16:48   Slot: 18 track: 06 isrc code: DKWX61200206            
+11/04   16:48   Slot: 18 track: 07 isrc code: DKWX61200207            
+11/04   16:48   Slot: 18 track: 08 isrc code: DKWX61200208            
+11/04   16:48   Slot: 18 track: 09 isrc code: DKWX61200209            
+11/04   16:48   Slot: 18 track: 10 isrc code: DKWX61200210            
+11/04   16:48   Slot: 18 track: 11 isrc code: DKWX61200211            
+11/04   16:48   Slot: 16 In work             
+11/04   16:48   Slot: 17 Operation was successfull            
+11/04   16:48   Slot: 17 upc/ean code: not found            
+11/04   16:48   Slot: 17 track: 01 isrc code: DKUM21100101            
+11/04   16:48   Slot: 17 track: 02 isrc code: DKUM21100102            
+11/04   16:48   Slot: 17 track: 03 isrc code: DKUM21100103            
+11/04   16:48   Slot: 17 track: 04 isrc code: DKUM21100104            
+11/04   16:48   Slot: 17 track: 05 isrc code: DKUM21100105            
+11/04   16:48   Slot: 17 track: 06 isrc code: DKUM21100106            
+11/04   16:48   Slot: 15 In work             
+11/04   16:51   Slot: 15 Operation was successfull            
+11/04   16:51   Slot: 15 upc/ean code: not found            
+11/04   16:51   Slot: 14 In work             
+11/04   16:51   Slot: 16 Operation was successfull            
+11/04   16:51   Slot: 16 upc/ean code: not found            
+11/04   16:51   Slot: 16 track: 01 isrc code: DKLH11000101            
+11/04   16:51   Slot: 16 track: 02 isrc code: DKLH11000102            
+11/04   16:51   Slot: 16 track: 03 isrc code: DKLH11000103            
+11/04   16:51   Slot: 16 track: 04 isrc code: DKLH11000104            
+11/04   16:51   Slot: 16 track: 05 isrc code: DKLH11000105            
+11/04   16:51   Slot: 16 track: 06 isrc code: DKLH11000106            
+11/04   16:51   Slot: 16 track: 07 isrc code: DKLH11000107            
+11/04   16:51   Slot: 16 track: 08 isrc code: DKLH11000108            
+11/04   16:51   Slot: 16 track: 09 isrc code: DKLH11000109            
+11/04   16:51   Slot: 16 track: 10 isrc code: DKLH11000110            
+11/04   16:51   Slot: 16 track: 11 isrc code: DKLH11000111            
+11/04   16:51   Slot: 16 track: 12 isrc code: DKLH11000112            
+11/04   16:51   Slot: 16 track: 13 isrc code: DKLH11000113            
+11/04   16:51   Slot: 16 track: 14 isrc code: DKLH11000114            
+11/04   16:51   Slot: 16 track: 15 isrc code: DKLH11000115            
+11/04   16:51   Slot: 13 In work             
+11/04   16:54   Slot: 13 Operation was successfull            
+11/04   16:54   Slot: 13 upc/ean code: not found            
+11/04   16:54   Slot: 12 In work             
+11/04   16:55   Slot: 14 Operation was successfull            
+11/04   16:55   Slot: 14 upc/ean code: not found            
+11/04   16:55   Slot: 14 track: 01 isrc code: DKEGA1200501            
+11/04   16:55   Slot: 14 track: 02 isrc code: DKEGA1200502            
+11/04   16:55   Slot: 14 track: 03 isrc code: DKEGA1200503            
+11/04   16:55   Slot: 14 track: 04 isrc code: DKEGA1200504            
+11/04   16:55   Slot: 14 track: 05 isrc code: DKEGA1200505            
+11/04   16:55   Slot: 14 track: 06 isrc code: DKEGA1200506            
+11/04   16:55   Slot: 14 track: 07 isrc code: DKEGA1200507            
+11/04   16:55   Slot: 14 track: 08 isrc code: DKEGA1200508            
+11/04   16:55   Slot: 14 track: 09 isrc code: DKEGA1200509            
+11/04   16:55   Slot: 14 track: 10 isrc code: DKEGA1200510            
+11/04   16:55   Slot: 14 track: 11 isrc code: DKEGA1200511            
+11/04   16:55   Slot: 14 track: 12 isrc code: DKEGA1200512            
+11/04   16:55   Slot: 14 track: 13 isrc code: DKEGA1200513            
+11/04   16:55   Slot: 14 track: 14 isrc code: DKEGA1200514            
+11/04   16:55   Slot: 14 track: 15 isrc code: DKEGA1200515            
+11/04   16:55   Slot: 14 track: 16 isrc code: DKEGA1200516            
+11/04   16:55   Slot: 14 track: 17 isrc code: DKEGA1200517            
+11/04   16:55   Slot: 11 In work             
+11/04   16:58   Slot: 11 Operation was successfull            
+11/04   16:58   Slot: 11 upc/ean code: not found            
+11/04   16:58   Slot: 11 track: 01 isrc code: DKDK31300101            
+11/04   16:58   Slot: 11 track: 02 isrc code: DKDK31300102            
+11/04   16:58   Slot: 11 track: 03 isrc code: DKDK31300103            
+11/04   16:58   Slot: 11 track: 04 isrc code: DKDK31300104            
+11/04   16:58   Slot: 11 track: 05 isrc code: DKDK31300105            
+11/04   16:58   Slot: 11 track: 06 isrc code: DKDK31300106            
+11/04   16:58   Slot: 11 track: 07 isrc code: DKDK31300107            
+11/04   16:58   Slot: 11 track: 08 isrc code: DKDK31300108            
+11/04   16:58   Slot: 101 In work             
+11/04   16:58   Slot: 12 Operation was successfull            
+11/04   16:58   Slot: 12 upc/ean code: not found            
+11/04   16:58   Slot: 12 track: 01 isrc code: DKFAA1101001            
+11/04   16:58   Slot: 12 track: 02 isrc code: DKFAA1101002            
+11/04   16:58   Slot: 12 track: 03 isrc code: DKFAA1101003            
+11/04   16:58   Slot: 12 track: 04 isrc code: DKFAA1101004            
+11/04   16:58   Slot: 12 track: 05 isrc code: DKFAA1101005            
+11/04   16:58   Slot: 12 track: 06 isrc code: DKFAA1101006            
+11/04   16:58   Slot: 12 track: 07 isrc code: DKFAA1101007            
+11/04   16:58   Slot: 12 track: 08 isrc code: DKFAA1101008            
+11/04   16:58   Slot: 12 track: 09 isrc code: DKFAA1101009            
+11/04   16:58   Slot: 12 track: 10 isrc code: DKFAA1101010            
+11/04   16:58   Slot: 12 track: 11 isrc code: DKFAA1101011            
+11/04   16:58   Slot: 102 In work             
+11/04   17:01   Slot: 102 Operation was successfull            
+11/04   17:01   Slot: 102 upc/ean code: not found            
+11/04   17:01   Slot: 102 track: 01 isrc code: DKYK21300101            
+11/04   17:01   Slot: 102 track: 02 isrc code: DKYK21300102            
+11/04   17:01   Slot: 102 track: 03 isrc code: DKYK21300103            
+11/04   17:01   Slot: 102 track: 04 isrc code: DKYK21300104            
+11/04   17:01   Slot: 102 track: 05 isrc code: DKYK21300105            
+11/04   17:01   Slot: 102 track: 06 isrc code: DKYK21300106            
+11/04   17:01   Slot: 102 track: 07 isrc code: DKYK21300107            
+11/04   17:01   Slot: 102 track: 08 isrc code: DKYK21300108            
+11/04   17:01   Slot: 102 track: 09 isrc code: DKYK21300109            
+11/04   17:01   Slot: 102 track: 10 isrc code: DKYK21300110            
+11/04   17:01   Slot: 102 track: 11 isrc code: DKYK21300111            
+11/04   17:01   Slot: 102 track: 12 isrc code: DKYK21300112            
+11/04   17:01   Slot: 102 track: 13 isrc code: DKYK21300113            
+11/04   17:01   Slot: 102 track: 14 isrc code: DKYK21300114            
+11/04   17:01   Slot: 102 track: 15 isrc code: DKYK21300115            
+11/04   17:01   Slot: 103 In work             
+11/04   17:01   Slot: 101 Operation was successfull            
+11/04   17:01   Slot: 101 upc/ean code: not found            
+11/04   17:01   Slot: 104 In work             
+11/04   17:05   Slot: 104 Operation was successfull            
+11/04   17:05   Slot: 104 upc/ean code: not found            
+11/04   17:05   Slot: 104 track: 01 isrc code: DKSEA1200101            
+11/04   17:05   Slot: 104 track: 02 isrc code: DKSEA1200102            
+11/04   17:05   Slot: 104 track: 03 isrc code: DKSEA1200103            
+11/04   17:05   Slot: 104 track: 04 isrc code: DKSEA1200104            
+11/04   17:05   Slot: 104 track: 05 isrc code: DKSEA1200105            
+11/04   17:05   Slot: 104 track: 06 isrc code: DKSEA1200106            
+11/04   17:05   Slot: 104 track: 07 isrc code: DKSEA1200108            
+11/04   17:05   Slot: 104 track: 08 isrc code: DKSEA1200107            
+11/04   17:05   Slot: 104 track: 09 isrc code: DKSEA1200109            
+11/04   17:05   Slot: 104 track: 10 isrc code: DKSEA1200110            
+11/04   17:05   Slot: 105 In work             
+11/04   17:05   Slot: 103 Operation was successfull            
+11/04   17:05   Slot: 103 upc/ean code: 5707471015001            
+11/04   17:05   Slot: 103 track: 01 isrc code: DKMP20900201            
+11/04   17:05   Slot: 103 track: 02 isrc code: DKMP20900202            
+11/04   17:05   Slot: 103 track: 03 isrc code: DKMP20900203            
+11/04   17:05   Slot: 103 track: 04 isrc code: DKMP20900204            
+11/04   17:05   Slot: 103 track: 05 isrc code: DKMP20900205            
+11/04   17:05   Slot: 103 track: 06 isrc code: DKMP20900206            
+11/04   17:05   Slot: 103 track: 07 isrc code: DKMP20900207            
+11/04   17:05   Slot: 103 track: 08 isrc code: DKMP20900208            
+11/04   17:05   Slot: 103 track: 09 isrc code: DKMP20900209            
+11/04   17:05   Slot: 103 track: 10 isrc code: DKMP20900210            
+11/04   17:05   Slot: 103 track: 11 isrc code: DKMP20900211            
+11/04   17:05   Slot: 106 In work             
+11/04   17:06   Slot: 106 Operation was successfull            
+11/04   17:06   Slot: 106 upc/ean code: not found            
+11/04   17:06   Slot: 107 In work             
+11/04   17:07   Slot: 105 Operation was successfull            
+11/04   17:07   Slot: 105 upc/ean code: not found            
+11/04   17:07   Slot: 108 In work             
+11/04   17:08   Slot: 107 Operation was successfull            
+11/04   17:08   Slot: 107 upc/ean code: not found            
+11/04   17:08   Slot: 107 track: 01 isrc code: DKYD31300101            
+11/04   17:08   Slot: 107 track: 02 isrc code: DKYD31300102            
+11/04   17:08   Slot: 107 track: 03 isrc code: DKYD31300103            
+11/04   17:08   Slot: 107 track: 04 isrc code: DKYD31300104            
+11/04   17:08   Slot: 107 track: 05 isrc code: DKYD31300105            
+11/04   17:08   Slot: 107 track: 06 isrc code: DKYD31300106            
+11/04   17:08   Slot: 109 In work             
+11/04   17:09   Slot: 108 Operation was successfull            
+11/04   17:09   Slot: 108 upc/ean code: not found            
+11/04   17:09   Slot: 108 track: 01 isrc code: DKSC21100101            
+11/04   17:09   Slot: 108 track: 02 isrc code: DKSC21100102            
+11/04   17:09   Slot: 108 track: 03 isrc code: DKSC21100103            
+11/04   17:09   Slot: 108 track: 04 isrc code: DKSC21100104            
+11/04   17:09   Slot: 110 In work             
+11/04   17:09   Slot: 109 Operation was successfull            
+11/04   17:09   Slot: 109 upc/ean code: not found            
+11/04   17:09   Slot: 109 track: 01 isrc code: DKTY61100101            
+11/04   17:09   Slot: 109 track: 02 isrc code: DKTY61100102            
+11/04   17:09   Slot: 109 track: 03 isrc code: DKTY61100103            
+11/04   17:09   Slot: 109 track: 04 isrc code: DKTY61100104            
+11/04   17:09   Slot: 111 In work             
+11/04   17:12   Slot: 111 Operation was successfull            
+11/04   17:12   Slot: 111 upc/ean code: not found            
+11/04   17:12   Slot: 111 track: 01 isrc code: DKFAA1300401            
+11/04   17:12   Slot: 111 track: 02 isrc code: DKFAA1300402            
+11/04   17:12   Slot: 111 track: 03 isrc code: DKFAA1300403            
+11/04   17:12   Slot: 111 track: 04 isrc code: DKFAA1300404            
+11/04   17:12   Slot: 111 track: 05 isrc code: DKFAA1300405            
+11/04   17:12   Slot: 111 track: 06 isrc code: DKFAA1300406            
+11/04   17:12   Slot: 111 track: 07 isrc code: DKFAA1300407            
+11/04   17:12   Slot: 111 track: 08 isrc code: DKFAA1300408            
+11/04   17:12   Slot: 111 track: 09 isrc code: DKFAA1300409            
+11/04   17:12   Slot: 111 track: 10 isrc code: DKFAA1300410            
+11/04   17:12   Slot: 111 track: 11 isrc code: DKFAA1300411            
+11/04   17:12   Slot: 111 track: 12 isrc code: DKFAA1300412            
+11/04   17:12   Slot: 111 track: 13 isrc code: DKFAA1300413            
+11/04   17:12   Slot: 111 track: 14 isrc code: DKFAA1300414            
+11/04   17:12   Slot: 111 track: 15 isrc code: DKFAA1300415            
+11/04   17:12   Slot: 111 track: 16 isrc code: DKFAA1300416            
+11/04   17:12   Slot: 111 track: 17 isrc code: DKFAA1300417            
+11/04   17:12   Slot: 112 In work             
+11/04   17:13   Slot: 110 Operation was successfull            
+11/04   17:13   Slot: 110 upc/ean code: not found            
+11/04   17:13   Slot: 110 track: 01 isrc code: DKFAA1300301            
+11/04   17:13   Slot: 110 track: 02 isrc code: DKFAA1300302            
+11/04   17:13   Slot: 110 track: 03 isrc code: DKFAA1300303            
+11/04   17:13   Slot: 110 track: 04 isrc code: DKFAA1300304            
+11/04   17:13   Slot: 110 track: 05 isrc code: DKFAA1300305            
+11/04   17:13   Slot: 110 track: 06 isrc code: DKFAA1300306            
+11/04   17:13   Slot: 110 track: 07 isrc code: DKFAA1300307            
+11/04   17:13   Slot: 110 track: 08 isrc code: DKFAA1300308            
+11/04   17:13   Slot: 110 track: 09 isrc code: DKFAA1300309            
+11/04   17:13   Slot: 110 track: 10 isrc code: DKFAA1300310            
+11/04   17:13   Slot: 110 track: 11 isrc code: DKFAA1300311            
+11/04   17:13   Slot: 110 track: 12 isrc code: DKFAA1300312            
+11/04   17:13   Slot: 110 track: 13 isrc code: DKFAA1300313            
+11/04   17:13   Slot: 110 track: 14 isrc code: DKFAA1300314            
+11/04   17:13   Slot: 110 track: 15 isrc code: DKFAA1300315            
+11/04   17:13   Slot: 110 track: 16 isrc code: DKFAA1300316            
+11/04   17:13   Slot: 110 track: 17 isrc code: DKFAA1300317            
+11/04   17:13   Slot: 110 track: 18 isrc code: DKFAA1300318            
+11/04   17:13   Slot: 113 In work             
+11/04   17:16   Slot: 112 Operation was successfull            
+11/04   17:16   Slot: 112 upc/ean code: not found            
+11/04   17:16   Slot: 114 In work             
+11/04   17:18   Slot: 113 Operation was successfull            
+11/04   17:18   Slot: 113 upc/ean code: not found            
+11/04   17:18   Slot: 113 track: 01 isrc code: DKQX21100101            
+11/04   17:18   Slot: 113 track: 02 isrc code: DKQX21100102            
+11/04   17:18   Slot: 113 track: 03 isrc code: DKQX21100103            
+11/04   17:18   Slot: 113 track: 04 isrc code: DKQX21100104            
+11/04   17:18   Slot: 113 track: 05 isrc code: DKQX21100105            
+11/04   17:18   Slot: 113 track: 06 isrc code: DKQX21100106            
+11/04   17:18   Slot: 113 track: 07 isrc code: DKQX21100107            
+11/04   17:18   Slot: 113 track: 08 isrc code: DKQX21100108            
+11/04   17:18   Slot: 113 track: 09 isrc code: DKQX21100109            
+11/04   17:18   Slot: 113 track: 10 isrc code: DKQX21100110            
+11/04   17:18   Slot: 113 track: 11 isrc code: DKQX21100111            
+11/04   17:18   Slot: 113 track: 12 isrc code: DKQX21100112            
+11/04   17:18   Slot: 113 track: 13 isrc code: DKQX21100113            
+11/04   17:18   Slot: 113 track: 14 isrc code: DKQX21100114            
+11/04   17:18   Slot: 115 In work             
+11/04   17:19   Slot: 114 Operation was successfull            
+11/04   17:19   Slot: 114 upc/ean code: not found            
+11/04   17:19   Slot: 114 track: 01 isrc code: DKXF41300201            
+11/04   17:19   Slot: 114 track: 02 isrc code: DKXF41300202            
+11/04   17:19   Slot: 114 track: 03 isrc code: DKXF41300203            
+11/04   17:19   Slot: 114 track: 04 isrc code: DKXF41300204            
+11/04   17:19   Slot: 114 track: 05 isrc code: DKXF41300205            
+11/04   17:19   Slot: 114 track: 06 isrc code: DKXF41300206            
+11/04   17:19   Slot: 114 track: 07 isrc code: DKXF41300207            
+11/04   17:19   Slot: 114 track: 08 isrc code: DKXF41300208            
+11/04   17:19   Slot: 114 track: 09 isrc code: DKXF41300208            
+11/04   17:19   Slot: 114 track: 10 isrc code: DKXF41300210            
+11/04   17:19   Slot: 114 track: 11 isrc code: DKXF41200203            
+11/04   17:19   Slot: 114 track: 12 isrc code: DKXF41200202            
+11/04   17:19   Slot: 114 track: 13 isrc code: DKXF41300211            
+11/04   17:19   Slot: 114 track: 14 isrc code: DKXF41200201            
+11/04   17:19   Slot: 116 In work             
+11/04   17:21   Slot: 115 Operation was successfull            
+11/04   17:21   Slot: 115 upc/ean code: not found            
+11/04   17:21   Slot: 115 track: 01 isrc code: DKJA31200101            
+11/04   17:21   Slot: 115 track: 02 isrc code: DKJA31200102            
+11/04   17:21   Slot: 115 track: 03 isrc code: DKJA31200103            
+11/04   17:21   Slot: 115 track: 04 isrc code: DKJA31200104            
+11/04   17:21   Slot: 115 track: 05 isrc code: DKJA31200105            
+11/04   17:21   Slot: 115 track: 06 isrc code: DKJA31200106            
+11/04   17:21   Slot: 115 track: 07 isrc code: DKJA31200107            
+11/04   17:21   Slot: 115 track: 08 isrc code: DKJA31200108            
+11/04   17:21   Slot: 115 track: 09 isrc code: DKJA31200109            
+11/04   17:21   Slot: 115 track: 10 isrc code: DKJA31200110            
+11/04   17:21   Slot: 115 track: 11 isrc code: DKJA31200111            
+11/04   17:21   Slot: 115 track: 12 isrc code: DKJA31200112            
+11/04   17:21   Slot: 117 In work             
+11/04   17:22   Slot: 116 ******** Check generated output ********            
+11/04   17:22   Slot: 116 upc/ean code: not found            
+11/04   17:22   Slot: 118 In work             
+11/04   17:24   Slot: 117 Operation was successfull            
+11/04   17:24   Slot: 117 upc/ean code: not found            
+11/04   17:24   Slot: 119 In work             
+11/04   17:25   Slot: 118 Operation was successfull            
+11/04   17:25   Slot: 118 upc/ean code: not found            
+11/04   17:25   Slot: 118 track: 01 isrc code: DK92A1300701            
+11/04   17:25   Slot: 118 track: 02 isrc code: DK92A1300702            
+11/04   17:25   Slot: 118 track: 03 isrc code: DK92A1300703            
+11/04   17:25   Slot: 118 track: 04 isrc code: DK92A1300704            
+11/04   17:25   Slot: 118 track: 05 isrc code: DK92A1300705            
+11/04   17:25   Slot: 118 track: 06 isrc code: DK92A1300706            
+11/04   17:25   Slot: 118 track: 07 isrc code: DK92A1300707            
+11/04   17:25   Slot: 118 track: 08 isrc code: DK92A1300708            
+11/04   17:25   Slot: 118 track: 09 isrc code: DK92A1300709            
+11/04   17:25   Slot: 118 track: 10 isrc code: DK92A1300710            
+11/04   17:25   Slot: 118 track: 11 isrc code: DK92A1300711            
+11/04   17:25   Slot: 118 track: 12 isrc code: DK92A1300712            
+11/04   17:25   Slot: 120 In work             
+11/04   17:27   Slot: 119 ******** Check generated output ********            
+11/04   17:27   Slot: 119 upc/ean code: not found            
+11/04   17:27   Slot: 119 track: 01 isrc code: DK92A1101701            
+11/04   17:27   Slot: 119 track: 02 isrc code: DK92A1101702            
+11/04   17:27   Slot: 119 track: 03 isrc code: DK92A1101703            
+11/04   17:27   Slot: 119 track: 04 isrc code: DK92A1101704            
+11/04   17:27   Slot: 119 track: 05 isrc code: DK92A1101705            
+11/04   17:27   Slot: 119 track: 06 isrc code: DK92A1101706            
+11/04   17:27   Slot: 119 track: 07 isrc code: DK92A1101707            
+11/04   17:27   Slot: 119 track: 08 isrc code: DK92A1101708            
+11/04   17:27   Slot: 121 In work             
+11/04   17:28   Slot: 120 Operation was successfull            
+11/04   17:28   Slot: 120 upc/ean code: not found            
+11/04   17:28   Slot: 120 track: 01 isrc code: DK92A1101709            
+11/04   17:28   Slot: 120 track: 02 isrc code: DK92A1101710            
+11/04   17:28   Slot: 120 track: 03 isrc code: DK92A1101711            
+11/04   17:28   Slot: 120 track: 04 isrc code: DK92A1101712            
+11/04   17:28   Slot: 120 track: 05 isrc code: DK92A1101713            
+11/04   17:28   Slot: 120 track: 06 isrc code: DK92A1101714            
+11/04   17:28   Slot: 120 track: 07 isrc code: DK92A1101715            
+11/04   17:28   Slot: 120 track: 08 isrc code: DK92A1101716            
+11/04   17:28   Slot: 120 track: 09 isrc code: DK92A1101717            
+11/04   17:28   Slot: 122 In work             
+11/04   17:29   Slot: 121 Operation was successfull            
+11/04   17:29   Slot: 121 upc/ean code: not found            
+11/04   17:29   Slot: 121 track: 01 isrc code: DKTA91100201            
+11/04   17:29   Slot: 121 track: 02 isrc code: DKTA91100202            
+11/04   17:29   Slot: 121 track: 03 isrc code: DKTA91100203            
+11/04   17:29   Slot: 121 track: 04 isrc code: DKTA91100204            
+11/04   17:29   Slot: 121 track: 05 isrc code: DKTA91100205            
+11/04   17:29   Slot: 121 track: 06 isrc code: DKTA91100206            
+11/04   17:29   Slot: 121 track: 07 isrc code: DKTA91100207            
+11/04   17:29   Slot: 121 track: 08 isrc code: DKTA91100208            
+11/04   17:29   Slot: 121 track: 09 isrc code: DKTA91100209            
+11/04   17:29   Slot: 121 track: 10 isrc code: DKTA91100210            
+11/04   17:29   Slot: 123 In work             
+11/04   17:31   Slot: 122 Operation was successfull            
+11/04   17:31   Slot: 122 upc/ean code: not found            
+11/04   17:31   Slot: 122 track: 01 isrc code: DK92A1202501            
+11/04   17:31   Slot: 122 track: 02 isrc code: DK92A1202502            
+11/04   17:31   Slot: 122 track: 03 isrc code: DK92A1202503            
+11/04   17:31   Slot: 122 track: 04 isrc code: DK92A1202504            
+11/04   17:31   Slot: 122 track: 05 isrc code: DK92A1202505            
+11/04   17:31   Slot: 122 track: 06 isrc code: DK92A1202506            
+11/04   17:31   Slot: 122 track: 07 isrc code: DK92A1202507            
+11/04   17:31   Slot: 122 track: 08 isrc code: DK92A1202508            
+11/04   17:31   Slot: 122 track: 09 isrc code: DK92A1202509            
+11/04   17:31   Slot: 122 track: 10 isrc code: DK92A1202510            
+11/04   17:31   Slot: 124 In work             
+11/04   17:32   Slot: 123 Operation was successfull            
+11/04   17:32   Slot: 123 upc/ean code: not found            
+11/04   17:32   Slot: 123 track: 01 isrc code: DKWM21200201            
+11/04   17:32   Slot: 123 track: 02 isrc code: DKWM21200202            
+11/04   17:32   Slot: 123 track: 03 isrc code: DKWM21200203            
+11/04   17:32   Slot: 123 track: 04 isrc code: DKWM21200204            
+11/04   17:32   Slot: 123 track: 05 isrc code: DKWM21200205            
+11/04   17:32   Slot: 123 track: 06 isrc code: DKWM21200206            
+11/04   17:32   Slot: 123 track: 07 isrc code: DKWM21200207            
+11/04   17:32   Slot: 123 track: 08 isrc code: DKWM21200208            
+11/04   17:32   Slot: 123 track: 09 isrc code: DKWM21200209            
+11/04   17:32   Slot: 123 track: 10 isrc code: DKWM21200210            
+11/04   17:32   Slot: 123 track: 11 isrc code: DKWM21200211            
+11/04   17:32   Slot: 123 track: 12 isrc code: DKWM21200212            
+11/04   17:32   Slot: 123 track: 13 isrc code: DKWM21200213            
+11/04   17:32   Slot: 125 In work             
+11/04   17:35   Slot: 124 Operation was successfull            
+11/04   17:35   Slot: 124 upc/ean code: not found            
+11/04   17:35   Slot: 124 track: 01 isrc code: DKGQ51300101            
+11/04   17:35   Slot: 124 track: 02 isrc code: DKGQ51300102            
+11/04   17:35   Slot: 124 track: 03 isrc code: DKGQ51300103            
+11/04   17:35   Slot: 124 track: 04 isrc code: DKGQ51300104            
+11/04   17:35   Slot: 124 track: 05 isrc code: DKGQ51300105            
+11/04   17:35   Slot: 124 track: 06 isrc code: DKGQ51300106            
+11/04   17:35   Slot: 124 track: 07 isrc code: DKGQ51300107            
+11/04   17:35   Slot: 124 track: 08 isrc code: DKGQ51300108            
+11/04   17:35   Slot: 124 track: 09 isrc code: DKGQ51300109            
+11/04   17:35   Slot: 124 track: 10 isrc code: DKGQ51300110            
+11/04   17:35   Slot: 126 In work             
+11/04   17:36   Slot: 125 Operation was successfull            
+11/04   17:36   Slot: 125 upc/ean code: not found            
+11/04   17:36   Slot: 125 track: 01 isrc code: DK3KA1200801            
+11/04   17:36   Slot: 125 track: 02 isrc code: DK3KA1200802            
+11/04   17:36   Slot: 125 track: 03 isrc code: DK3KA1200803            
+11/04   17:36   Slot: 125 track: 04 isrc code: DK3KA1200804            
+11/04   17:36   Slot: 125 track: 05 isrc code: DK3KA1200805            
+11/04   17:36   Slot: 125 track: 06 isrc code: DK3KA1200806            
+11/04   17:36   Slot: 125 track: 07 isrc code: DK3KA1200807            
+11/04   17:36   Slot: 125 track: 08 isrc code: DK3KA1200808            
+11/04   17:36   Slot: 125 track: 09 isrc code: DK3KA1200809            
+11/04   17:37   Slot: 127 In work             
+11/04   17:38   Slot: 126 ******** Check generated output ********            
+11/04   17:38   Slot: 126 upc/ean code: 5706725101309            
+11/04   17:38   Slot: 126 track: 01 isrc code: DK3KA1200901            
+11/04   17:38   Slot: 126 track: 02 isrc code: DK3KA1200902            
+11/04   17:38   Slot: 126 track: 03 isrc code: DK3KA1200903            
+11/04   17:38   Slot: 126 track: 04 isrc code: DK3KA1200904            
+11/04   17:38   Slot: 126 track: 05 isrc code: DK3KA1200905            
+11/04   17:38   Slot: 126 track: 06 isrc code: DK3KA1200906            
+11/04   17:38   Slot: 126 track: 07 isrc code: DK3KA1200907            
+11/04   17:38   Slot: 126 track: 08 isrc code: DK3KA1200908            
+11/04   17:38   Slot: 126 track: 09 isrc code: DK3KA1200909            
+11/04   17:38   Slot: 126 track: 10 isrc code: DK3KA1200910            
+11/04   17:38   Slot: 128 In work             
+11/04   17:39   Slot: 127 Operation was successfull            
+11/04   17:39   Slot: 127 upc/ean code: not found            
+11/04   17:39   Slot: 127 track: 01 isrc code: DKBDB1301501            
+11/04   17:39   Slot: 127 track: 02 isrc code: DKBDB1301502            
+11/04   17:39   Slot: 127 track: 03 isrc code: DKBDB1301503            
+11/04   17:39   Slot: 127 track: 04 isrc code: DKBDB1301504            
+11/04   17:39   Slot: 127 track: 05 isrc code: DKBDB1301505            
+11/04   17:39   Slot: 127 track: 06 isrc code: DKBDB1301506            
+11/04   17:39   Slot: 127 track: 07 isrc code: DKBDB1301507            
+11/04   17:39   Slot: 127 track: 08 isrc code: DKBDB1301508            
+11/04   17:39   Slot: 127 track: 09 isrc code: DKBDB1301509            
+11/04   17:39   Slot: 127 track: 10 isrc code: DKBDB1301510            
+11/04   17:40   Slot: 129 In work             
+11/04   17:41   Slot: 129 Operation was successfull            
+11/04   17:41   Slot: 129 upc/ean code: not found            
+11/04   17:41   Slot: 129 track: 01 isrc code: DK92A1200801            
+11/04   17:41   Slot: 129 track: 02 isrc code: DK92A1200802            
+11/04   17:41   Slot: 129 track: 03 isrc code: DK92A1200803            
+11/04   17:41   Slot: 129 track: 04 isrc code: DK92A1200804            
+11/04   17:41   Slot: 129 track: 05 isrc code: DK92A1200805            
+11/04   17:41   Slot: 129 track: 06 isrc code: DK92A1200806            
+11/04   17:41   Slot: 129 track: 07 isrc code: DK92A1200807            
+11/04   17:41   Slot: 130 In work             
+11/04   17:42   Slot: 128 Operation was successfull            
+11/04   17:42   Slot: 128 upc/ean code: not found            
+11/04   17:42   Slot: 128 track: 01 isrc code: DKBDB1301901            
+11/04   17:42   Slot: 128 track: 02 isrc code: DKBDB1301902            
+11/04   17:42   Slot: 128 track: 03 isrc code: DKBDB1301903            
+11/04   17:42   Slot: 128 track: 04 isrc code: DKBDB1301904            
+11/04   17:42   Slot: 128 track: 05 isrc code: DKBDB1301905            
+11/04   17:42   Slot: 128 track: 06 isrc code: DKBDB1301906            
+11/04   17:42   Slot: 128 track: 07 isrc code: DKBDB1301907            
+11/04   17:42   Slot: 128 track: 08 isrc code: DKBDB1301908            
+11/04   17:42   Slot: 131 In work             
+11/04   17:44   Slot: 131 Operation was successfull            
+11/04   17:44   Slot: 131 upc/ean code: not found            
+11/04   17:44   Slot: 131 track: 01 isrc code: DKWM21300601            
+11/04   17:44   Slot: 131 track: 02 isrc code: DKWM21300602            
+11/04   17:44   Slot: 131 track: 03 isrc code: DKWM21300603            
+11/04   17:44   Slot: 131 track: 04 isrc code: DKWM21300604            
+11/04   17:44   Slot: 131 track: 05 isrc code: DKWM21300605            
+11/04   17:44   Slot: 131 track: 06 isrc code: DKWM21300606            
+11/04   17:44   Slot: 131 track: 07 isrc code: DKWM21300607            
+11/04   17:44   Slot: 131 track: 08 isrc code: DKWM21300608            
+11/04   17:44   Slot: 131 track: 09 isrc code: DKWM21300609            
+11/04   17:44   Slot: 132 In work             
+11/04   17:45   Slot: 130 Operation was successfull            
+11/04   17:45   Slot: 130 upc/ean code: not found            
+11/04   17:45   Slot: 130 track: 01 isrc code: DK92A1202201            
+11/04   17:45   Slot: 130 track: 02 isrc code: DK92A1202202            
+11/04   17:45   Slot: 130 track: 03 isrc code: DK92A1202203            
+11/04   17:45   Slot: 130 track: 04 isrc code: DK92A1202204            
+11/04   17:45   Slot: 130 track: 05 isrc code: DK92A1202205            
+11/04   17:45   Slot: 130 track: 06 isrc code: DK92A1202206            
+11/04   17:45   Slot: 130 track: 07 isrc code: DK92A1202207            
+11/04   17:45   Slot: 130 track: 08 isrc code: DK92A1202208            
+11/04   17:45   Slot: 130 track: 09 isrc code: DK92A1202209            
+11/04   17:45   Slot: 130 track: 10 isrc code: DK92A1202210            
+11/04   17:45   Slot: 130 track: 11 isrc code: DK92A1202211            
+11/04   17:45   Slot: 130 track: 12 isrc code: DK92A1202212            
+11/04   17:45   Slot: 133 In work             
+11/04   17:47   Slot: 132 Operation was successfull            
+11/04   17:47   Slot: 132 upc/ean code: not found            
+11/04   17:47   Slot: 132 track: 01 isrc code: DKSA61200101            
+11/04   17:47   Slot: 132 track: 02 isrc code: DKSA61200102            
+11/04   17:47   Slot: 132 track: 03 isrc code: DKSA61200103            
+11/04   17:47   Slot: 132 track: 04 isrc code: DKSA61200104            
+11/04   17:47   Slot: 132 track: 05 isrc code: DKSA61200105            
+11/04   17:47   Slot: 132 track: 06 isrc code: DKSA61200106            
+11/04   17:47   Slot: 132 track: 07 isrc code: DKSA61200107            
+11/04   17:47   Slot: 132 track: 08 isrc code: DKSA61200108            
+11/04   17:47   Slot: 132 track: 09 isrc code: DKSA61200109            
+11/04   17:47   Slot: 134 In work             
+11/04   17:48   Slot: 133 Operation was successfull            
+11/04   17:48   Slot: 133 upc/ean code: not found            
+11/04   17:49   Slot: 135 In work             
+11/04   17:51   Slot: 134 ******** Check generated output ********            
+11/04   17:51   Slot: 134 upc/ean code: 5707471027622            
+11/04   17:51   Slot: 134 track: 01 isrc code: DKGH91200101            
+11/04   17:51   Slot: 134 track: 02 isrc code: DKGH91200102            
+11/04   17:51   Slot: 134 track: 03 isrc code: DKGH91200103            
+11/04   17:51   Slot: 134 track: 04 isrc code: DKGH91200104            
+11/04   17:51   Slot: 134 track: 05 isrc code: DKGH91200105            
+11/04   17:51   Slot: 134 track: 06 isrc code: DKGH91200106            
+11/04   17:51   Slot: 134 track: 07 isrc code: DKGH91200107            
+11/04   17:51   Slot: 134 track: 08 isrc code: DKGH91200108            
+11/04   17:51   Slot: 134 track: 09 isrc code: DKGH91200109            
+11/04   17:51   Slot: 134 track: 10 isrc code: DKGH91200110            
+11/04   17:51   Slot: 136 In work             
+11/04   17:52   Slot: 135 ******** Check generated output ********            
+11/04   17:52   Slot: 135 upc/ean code: 5707471027622            
+11/04   17:52   Slot: 135 track: 01 isrc code: DKGH91200201            
+11/04   17:52   Slot: 135 track: 02 isrc code: DKGH91200202            
+11/04   17:52   Slot: 135 track: 03 isrc code: DKGH91200203            
+11/04   17:52   Slot: 135 track: 04 isrc code: DKGH91200204            
+11/04   17:52   Slot: 135 track: 05 isrc code: DKGH91200205            
+11/04   17:52   Slot: 135 track: 06 isrc code: DKGH91200206            
+11/04   17:52   Slot: 135 track: 07 isrc code: DKGH91200207            
+11/04   17:52   Slot: 135 track: 08 isrc code: DKGH91200208            
+11/04   17:52   Slot: 135 track: 09 isrc code: DKGH91200209            
+11/04   17:52   Slot: 135 track: 10 isrc code: DKGH91200210            
+11/04   17:52   Slot: 135 track: 11 isrc code: DKGH91200211            
+11/04   17:52   Slot: 135 track: 12 isrc code: DKGH91200212            
+11/04   17:52   Slot: 137 In work             
+11/04   17:55   Slot: 136 Operation was successfull            
+11/04   17:55   Slot: 136 upc/ean code: 0888837421720            
+11/04   17:55   Slot: 136 track: 01 isrc code: GBAJE8200003            
+11/04   17:55   Slot: 136 track: 02 isrc code: USSM17800419            
+11/04   17:55   Slot: 136 track: 03 isrc code: USMO17600547            
+11/04   17:55   Slot: 136 track: 04 isrc code: USSM17701105            
+11/04   17:55   Slot: 136 track: 05 isrc code: USAT20108541            
+11/04   17:55   Slot: 136 track: 06 isrc code: USMO18000379            
+11/04   17:55   Slot: 136 track: 07 isrc code: USPR37902456            
+11/04   17:55   Slot: 136 track: 08 isrc code: USPR38007166            
+11/04   17:55   Slot: 136 track: 09 isrc code: USRC10402124            
+11/04   17:55   Slot: 136 track: 10 isrc code: USSM17800763            
+11/04   17:55   Slot: 136 track: 11 isrc code: USAT20201183            
+11/04   17:55   Slot: 136 track: 12 isrc code: USRC18207928            
+11/04   17:55   Slot: 136 track: 13 isrc code: USSM18100805            
+11/04   17:55   Slot: 136 track: 14 isrc code: USSM17900498            
+11/04   17:55   Slot: 136 track: 15 isrc code: USSM17800842            
+11/04   17:55   Slot: 136 track: 16 isrc code: USRC18003278            
+11/04   17:55   Slot: 136 track: 17 isrc code: GBAHK9700109            
+11/04   17:55   Slot: 136 track: 18 isrc code: USSM17301104            
+11/04   17:55   Slot: 136 track: 19 isrc code: USWB10502666            
+11/04   17:55   Slot: 136 track: 20 isrc code: USSM17700024            
+11/04   17:55   Slot: 138 In work             
+11/04   17:56   Slot: 137 Operation was successfull            
+11/04   17:56   Slot: 137 upc/ean code: not found            
+11/04   17:56   Slot: 137 track: 01 isrc code: USWB10808469            
+11/04   17:56   Slot: 137 track: 02 isrc code: USAT21001030            
+11/04   17:56   Slot: 137 track: 03 isrc code: USAT20001676            
+11/04   17:56   Slot: 137 track: 04 isrc code: USAM18074730            
+11/04   17:56   Slot: 137 track: 05 isrc code: USAM18102206            
+11/04   17:56   Slot: 137 track: 06 isrc code: USSM19803304            
+11/04   17:56   Slot: 137 track: 07 isrc code: USSM19805455            
+11/04   17:56   Slot: 137 track: 08 isrc code: USSM17900565            
+11/04   17:56   Slot: 137 track: 09 isrc code: USPR37907202            
+11/04   17:56   Slot: 137 track: 10 isrc code: USPR37800083            
+11/04   17:56   Slot: 137 track: 11 isrc code: USPR37800082            
+11/04   17:56   Slot: 137 track: 12 isrc code: USWB19700370            
+11/04   17:56   Slot: 137 track: 13 isrc code: USEE10183258            
+11/04   17:56   Slot: 137 track: 14 isrc code: USIR28800141            
+11/04   17:56   Slot: 137 track: 15 isrc code: USSM19912523            
+11/04   17:56   Slot: 137 track: 16 isrc code: USMC17646466            
+11/04   17:56   Slot: 137 track: 17 isrc code: USRC17208387            
+11/04   17:56   Slot: 137 track: 18 isrc code: USSM17500261            
+11/04   17:56   Slot: 137 track: 19 isrc code: USSM10022575            
+11/04   17:56   Slot: 137 track: 20 isrc code: USMO18400528            
+11/04   17:56   Slot: 139 In work             
+11/04   17:58   Slot: 138 Operation was successfull            
+11/04   17:58   Slot: 138 upc/ean code: 0888837433228            
+11/04   17:58   Slot: 138 track: 01 isrc code: DK4YA1303001            
+11/04   17:58   Slot: 138 track: 02 isrc code: DK4YA1303002            
+11/04   17:58   Slot: 138 track: 03 isrc code: DK4YA1303003            
+11/04   17:58   Slot: 138 track: 04 isrc code: DK4YA1303004            
+11/04   17:58   Slot: 138 track: 05 isrc code: DK4YA1303005            
+11/04   17:58   Slot: 138 track: 06 isrc code: DK4YA1303006            
+11/04   17:58   Slot: 138 track: 07 isrc code: DK4YA1303007            
+11/04   17:58   Slot: 138 track: 08 isrc code: DK4YA1303008            
+11/04   17:58   Slot: 138 track: 09 isrc code: DK4YA1303009            
+11/04   17:58   Slot: 138 track: 10 isrc code: DK4YA1303010            
+11/04   17:58   Slot: 138 track: 11 isrc code: DK4YA1002301            
+11/04   17:58   Slot: 140 In work             
+11/04   17:59   Slot: 139 Operation was successfull            
+11/04   17:59   Slot: 139 upc/ean code: not found            
+11/04   17:59   Slot: 139 track: 01 isrc code: DK9110900101            
+11/04   17:59   Slot: 139 track: 02 isrc code: DK9110900102            
+11/04   17:59   Slot: 139 track: 03 isrc code: DK9110900103            
+11/04   17:59   Slot: 139 track: 04 isrc code: DK9110900104            
+11/04   17:59   Slot: 139 track: 05 isrc code: DK9110900105            
+11/04   17:59   Slot: 139 track: 06 isrc code: DK9110900106            
+11/04   17:59   Slot: 139 track: 07 isrc code: DK9110900107            
+11/04   17:59   Slot: 139 track: 08 isrc code: DK9110900108            
+11/04   17:59   Slot: 139 track: 09 isrc code: DK9110900109            
+11/04   17:59   Slot: 139 track: 10 isrc code: DK9110900110            
+11/04   17:59   Slot: 141 In work             
+11/04   18:00   Slot: 140 Operation was successfull            
+11/04   18:00   Slot: 140 upc/ean code: not found            
+11/04   18:00   Slot: 140 track: 01 isrc code: DK9110900201            
+11/04   18:00   Slot: 140 track: 02 isrc code: DK9110900202            
+11/04   18:00   Slot: 140 track: 03 isrc code: DK9110900203            
+11/04   18:00   Slot: 140 track: 04 isrc code: DK9110900204            
+11/04   18:00   Slot: 140 track: 05 isrc code: DK9110900205            
+11/04   18:00   Slot: 140 track: 06 isrc code: DK9110900206            
+11/04   18:00   Slot: 140 track: 07 isrc code: DK9110900207            
+11/04   18:00   Slot: 140 track: 08 isrc code: DK9110900208            
+11/04   18:00   Slot: 140 track: 09 isrc code: DK9110900209            
+11/04   18:00   Slot: 140 track: 10 isrc code: DK9110900210            
+11/04   18:00   Slot: 140 track: 11 isrc code: DK9110900211            
+11/04   18:00   Slot: 142 In work             
+11/04   18:02   Slot: 141 Operation was successfull            
+11/04   18:02   Slot: 141 upc/ean code: not found            
+11/04   18:02   Slot: 141 track: 01 isrc code: DK69A1300101            
+11/04   18:02   Slot: 141 track: 02 isrc code: DK69A1300102            
+11/04   18:02   Slot: 141 track: 03 isrc code: DK69A1300103            
+11/04   18:02   Slot: 141 track: 04 isrc code: DK69A1300104            
+11/04   18:02   Slot: 141 track: 05 isrc code: DK69A1300105            
+11/04   18:02   Slot: 141 track: 06 isrc code: DK69A1300106            
+11/04   18:02   Slot: 141 track: 07 isrc code: DK69A1300107            
+11/04   18:02   Slot: 141 track: 08 isrc code: DK69A1300108            
+11/04   18:02   Slot: 141 track: 09 isrc code: DK69A1300109            
+11/04   18:02   Slot: 143 In work             
+11/04   18:04   Slot: 142 Operation was successfull            
+11/04   18:04   Slot: 142 upc/ean code: not found            
+11/04   18:04   Slot: 142 track: 01 isrc code: DKDK31200201            
+11/04   18:04   Slot: 142 track: 02 isrc code: DKDK31200202            
+11/04   18:04   Slot: 142 track: 03 isrc code: DKDK31200203            
+11/04   18:04   Slot: 142 track: 04 isrc code: DKDK31200204            
+11/04   18:04   Slot: 142 track: 05 isrc code: DKDK31200205            
+11/04   18:04   Slot: 142 track: 06 isrc code: DKDK31200206            
+11/04   18:04   Slot: 142 track: 07 isrc code: DKDK31200207            
+11/04   18:04   Slot: 142 track: 08 isrc code: DKDK31200208            
+11/04   18:04   Slot: 142 track: 09 isrc code: DKDK31200209            
+11/04   18:04   Slot: 142 track: 10 isrc code: DKDK31200210            
+11/04   18:04   Slot: 144 In work             
+11/04   18:05   Slot: 143 Operation was successfull            
+11/04   18:05   Slot: 143 upc/ean code: not found            
+11/04   18:05   Slot: 143 track: 01 isrc code: DKDK31200401            
+11/04   18:05   Slot: 143 track: 02 isrc code: DKDK31200402            
+11/04   18:05   Slot: 143 track: 03 isrc code: DKDK31200403            
+11/04   18:05   Slot: 143 track: 04 isrc code: DKDK31200404            
+11/04   18:05   Slot: 143 track: 05 isrc code: DKDK31200405            
+11/04   18:05   Slot: 143 track: 06 isrc code: DKDK31200406            
+11/04   18:05   Slot: 143 track: 07 isrc code: DKDK31200407            
+11/04   18:05   Slot: 143 track: 08 isrc code: DKDK31200408            
+11/04   18:05   Slot: 143 track: 09 isrc code: DKDK31200409            
+11/04   18:05   Slot: 145 In work             
+11/04   18:06   Slot: 145 ******** Check generated output ********            
+11/04   18:06   Slot: 145 upc/ean code: not found            
+11/04   18:07   Slot: 144 Operation was successfull            
+11/04   18:07   Slot: 144 upc/ean code: not found            
+11/04   18:07   Slot: 144 track: 01 isrc code: DKATA1301301            
+11/04   18:07   Slot: 144 track: 02 isrc code: DKATA1301302            
+11/04   18:07   Slot: 144 track: 03 isrc code: DKATA1301303            
+11/04   18:07   Slot: 144 track: 04 isrc code: DKATA1301304            
+11/04   18:07   Slot: 144 track: 05 isrc code: DKATA1301305            
+11/04   18:07   Slot: 144 track: 06 isrc code: DKATA1301306            
+11/04   18:07   Slot: 144 track: 07 isrc code: DKATA1301307            
+11/04   18:07   Slot: 144 track: 08 isrc code: DKATA1301308            
+11/04   18:07   Slot: 144 track: 09 isrc code: DKATA1301309            
+11/04   18:07   Slot: 144 track: 10 isrc code: DKATA1301310            
+11/04   18:07   Slot: 144 track: 11 isrc code: DKATA1301311            
+11/04   18:07   Slot: 144 track: 12 isrc code: DKATA1301312            
+11/04   18:07   Slot: 144 track: 13 isrc code: DKATA1301313            
+11/04   18:07   Slot: 144 track: 14 isrc code: DKATA1301314            
+11/04   18:07   Slot: 144 track: 15 isrc code: DKATA1301315            
+11/04   18:07   All Slots processed                                           
+11/05   13:10   Magazin: 06000000292241 unload ok                             
+11/05   13:16   Magazin: 06000000291079 unload ok                             
+11/05   13:36   Magazin: 06000000293755 unload ok                             
+11/05   13:45   Magazin: 06000000292241 unload ok                             
+11/05   13:52   Magazin: 06000000291079 unload ok                             
+11/05   13:58   Magazin: 06000000293755 unload ok                             
+11/05   14:02   Magazin: 06000000292241 unload ok                             
+11/05   14:05   Magazin: 06000000291079 unload ok                             
+11/05   14:07   Magazin: 06000000293755 unload ok                             
+11/05   14:07   Job finished                                                  
+11/05   14:08   Process canceled by user            
+11/05   14:09   Process canceled by user            
+--------------------------------------------------------------------------------------------------------------------
+
+Stop:   11/05/2014   14:09

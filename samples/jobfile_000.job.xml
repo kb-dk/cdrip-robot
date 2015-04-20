@@ -1,0 +1,44 @@
+<!-- Joblist Version 0.10 -->
+<JOBLIST>
+    <CHARGELIST>
+        <MAGAZINE num="1">
+            <PACKAGEID>06000000293755</PACKAGEID>
+            <MAGAZINESLOT num="1">
+                <CDNAME/>
+                <JUKEBOXSLOT num="101"/>
+            </MAGAZINESLOT>
+            <MAGAZINESLOT num="2">
+                <CDNAME/>
+                <JUKEBOXSLOT num="102"/>
+            </MAGAZINESLOT>
+            <MAGAZINESLOT num="3">
+                <CDNAME/>
+                <JUKEBOXSLOT num="103"/>
+            </MAGAZINESLOT>
+        </MAGAZINE>
+    </CHARGELIST>
+    <BLOCK>
+        <OUTPUT>
+            <NAME format="BWFTMP">207916/track.wav</NAME>
+            <INPUT format="CD" mode="auto">
+                <NAME>101</NAME>
+            </INPUT>
+        </OUTPUT>
+    </BLOCK>
+    <BLOCK>
+        <OUTPUT>
+            <NAME format="BWFTMP">207917/track.wav</NAME>
+            <INPUT format="CD" mode="auto">
+                <NAME>102</NAME>
+            </INPUT>
+        </OUTPUT>
+    </BLOCK>
+    <BLOCK>
+        <OUTPUT>
+            <NAME format="BWFTMP">207918/track.wav</NAME>
+            <INPUT format="CD" mode="auto">
+                <NAME>103</NAME>
+            </INPUT>
+        </OUTPUT>
+    </BLOCK>
+</JOBLIST>

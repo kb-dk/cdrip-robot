@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Joblist Version 0.10-->
+<!DOCTYPE JOBLIST SYSTEM "Joblist 0.10.dtd">
+<JOBLIST>
+<CHARGELIST>
+
+<MAGAZINE num="1">
+<PACKAGEID>06000000293755</PACKAGEID>
+<MAGAZINESLOT num="1">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="101"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="2">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="102"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="3">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="103"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="4">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="104"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="5">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="105"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="6">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="106"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="7">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="107"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="8">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="108"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="9">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="109"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="10">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="110"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="11">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="111"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="12">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="112"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="13">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="113"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="14">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="114"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="15">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="115"/>
+</MAGAZINESLOT>
+</MAGAZINE>
+<MAGAZINE num="2">
+<PACKAGEID>06000000291079</PACKAGEID>
+<MAGAZINESLOT num="1">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="116"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="2">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="117"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="3">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="118"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="4">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="119"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="5">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="120"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="6">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="121"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="7">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="122"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="8">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="123"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="9">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="124"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="10">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="125"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="11">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="126"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="12">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="127"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="13">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="128"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="14">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="129"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="15">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="130"/>
+</MAGAZINESLOT>
+</MAGAZINE>
+<MAGAZINE num="3">
+<PACKAGEID>06000000292241</PACKAGEID>
+<MAGAZINESLOT num="1">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="131"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="2">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="132"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="3">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="133"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="4">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="134"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="5">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="135"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="6">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="136"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="7">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="137"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="8">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="138"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="9">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="139"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="10">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="140"/>
+</MAGAZINESLOT>
+<MAGAZINESLOT num="11">
+<CDNAME></CDNAME>
+<JUKEBOXSLOT num="141"/>
+</MAGAZINESLOT>
+</MAGAZINE>
+
+</CHARGELIST>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207919/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>101</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207920/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>102</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207921/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>103</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207922/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>104</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207923/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>105</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207924/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>106</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207925/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>107</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207926/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>108</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207927/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>109</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207928/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>110</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207929/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>111</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207971/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>112</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">207999/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>113</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208003/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>114</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208013/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>115</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208046/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>116</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208068/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>117</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208071-1/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>118</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208085-1/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>119</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208085-2/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>120</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208094/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>121</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208095/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>122</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208096/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>123</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208097/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>124</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208098/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>125</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208099/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>126</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208100/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>127</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208101/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>128</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208102/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>129</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208103/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>130</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208104/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>131</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208105/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>132</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208106/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>133</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208107/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>134</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208108/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>135</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208109/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>136</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208110/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>137</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208111/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>138</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208112/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>139</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208113/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>140</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+<BLOCK>
+<OUTPUT>
+<NAME format="BWFTMP">208266/track.wav</NAME>
+<INPUT format="CD" mode="auto">
+<NAME>141</NAME>
+</INPUT>
+</OUTPUT>
+</BLOCK>
+</JOBLIST>
+
