@@ -1,3 +1,1 @@
-Note:  For now we do not have a set of corresponding
-jobfile_XXXX.job.xml and CD-Inspector....log+Result...log files.
-
+jobfile_627.job.xml corresponds to CD-Inspector_2014-10-21_14-52.log + CD-Inspector_2014-10-21_14-52.log

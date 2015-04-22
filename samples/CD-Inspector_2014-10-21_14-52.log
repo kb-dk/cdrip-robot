@@ -1,0 +1,141 @@
+﻿CD-Inspector Version: 2. 0. 1. 4  Logfile
+
+Start:   10/21/2014   14:52
+
+Date    Time    File                                              Status      Comment                               
+--------------------------------------------------------------------------------------------------------------------
+10/21   14:52   Init UserManager:                                 ok          
+10/21   14:52   Init Drives:                                      ok          
+10/21   14:52   loading PostProcessor:                            ok          
+10/21   14:52   Init MediaEngine:                                 ok          
+10/21   14:52   Init JukeBox:                                     ok          
+10/21   14:52   JukeBox Name and Number:                          NSM_Satellite (N30020-AK  )
+10/21   15:00   .../Desktop/jobfile_627.job.xml loaded successful            
+CD-Inspector Version: 2. 0. 1. 4  Logfile
+
+Start:   10/21/2014   15:00
+
+Date    Time    File                                              Status      Comment                               
+--------------------------------------------------------------------------------------------------------------------
+10/21   15:00   Folder for audio data:                            ...\data     
+10/21   15:00   Folder for Logfiles:                              ...\logfiles 
+10/21   15:00   Folder for Jobfiles:                              ...\jobfiles 
+10/21   15:00   Folder for Importfiles:                           ...\Importfile
+10/21   15:00   Create Backup of existing Outputfolder:           on          
+10/21   15:00   Output Mode:                                      Track At Once
+10/21   15:00   Output Format:                                    Wave        
+10/21   15:00   Prepare for Postprocessing:                       off         
+10/21   15:00   Order of Coding History (import first):           off         
+10/21   15:00   Avoid Warning if Importfile is not used:          on          
+10/21   15:00   Delete Used ImportFile:                           off         
+10/21   15:00   Ignore empty Chargelist:                          off         
+10/21   15:00   Reportfile Setting:                               write all Files
+10/21   15:00   Write Import Events into Exportfile:              on          
+10/21   15:00   Copy special XSL-Templates (including pictures):  off         
+10/21   15:00   Abort on Multisession CDs (Audio + Data):         off         
+10/21   15:00   Abort on unknown Subcode Data:                    off         
+10/21   15:00   Abort on C2 Error:                                off         
+10/21   15:00   Abort on Bad Block:                               off         
+10/21   15:00   Abort on Frame Lost:                              off         
+10/21   15:00   Abort on Capturing Timer:                         on (45 minutes)
+10/21   15:00   Delete content of canceled job:                   on          
+10/21   15:00   Retry on C2 Errors:                               on (3 retries)
+10/21   15:00   Retry on Bad Blocks:                              on (3 retries)
+10/21   15:00   Bad Block:                                        priority 5 
+10/21   15:00   C2Error:                                          priority 5 
+10/21   15:00   FrameLost:                                        priority 5 
+10/21   15:00   SampleHold:                                       priority 5 
+10/21   15:00   Audio in Pause:                                   priority 1 
+10/21   15:00   Prepause before Track 1 < 2 seconds:              priority 5 
+10/21   15:00   Hidden Track:                                     priority 1 (4 seconds)
+10/21   15:00   Invalid UPC/EAN:                                  priority 1 
+10/21   15:00   Track < 4 seconds:                                priority 5 
+10/21   15:00   TOC Diff 2 ATime:                                 priority 1 
+10/21   15:00   Pregap Event:                                     priority 1 (10 seconds)
+10/21   15:00   Playtime Event:                                   priority 1 (78:30:00 mm:ss:ff)
+10/21   15:00   Unknown Subcode:                                  priority 1 
+10/21   15:00   Jump in ATime:                                    off
+10/21   15:00   Jump in RTime:                                    off
+10/21   15:00   Doubling ATime:                                   off
+10/21   15:00   Doubling RTime:                                   off
+10/21   15:00   ISRC Check Failed (Jobfile check):                priority 1 
+10/21   15:00   Multiple ISRC for one track:                      priority 1 
+10/21   15:00   Multiple UPC/EAN for one CD:                      priority 1 
+10/21   15:00   ISRC Changed at Track or Index:                   priority 1 
+10/21   15:00   UPC Changed at Track or Index:                    priority 1 
+10/21   15:00   use archive Number As Filename :                  on          
+10/21   15:00   use Archivenumberdialog with Mailslot :           on          
+10/21   15:00   allow empty Archivenumber :                       off         
+10/21   15:00   cancel on Archivenumber mismatch :                off         
+10/21   15:00   use default jukebox capacity as CD's to load :    off         
+10/21   15:00   allow invalid catalog number :                    off         
+10/21   15:00   disable verify catalog number :                   off         
+10/21   15:00   don't extract ISO images :                        on          
+10/21   15:00   use long filenames :                              off         
+10/21   15:03   Magazin: 06000000293755 load ok                               
+10/21   15:03   Magazin: 06000000293755  Slot: 1  Jukebox Slot: 101            
+10/21   15:03   Magazin: 06000000293755  Slot: 2  Jukebox Slot: 102            
+10/21   15:03   Magazin: 06000000293755  Slot: 3  Jukebox Slot: 103            
+10/21   15:03   Magazin: 06000000293755  Slot: 4  Jukebox Slot: 104            
+10/21   15:03   Magazin: 06000000293755  Slot: 5  Jukebox Slot: 105            
+10/21   15:03   Scanning JukeBox:                                 ok          
+10/21   15:03   Found 5 filled Slots            
+10/21   15:03   Slot: 101 In work             
+10/21   15:04   Slot: 102 In work             
+10/21   15:06   Slot: 101 ******** Check generated output ********            
+10/21   15:06   Slot: 101 upc/ean code: not found            
+10/21   15:06   Slot: 101 track: 01 isrc code: DKVJ21300301            
+10/21   15:06   Slot: 101 track: 02 isrc code: DKVJ21300302            
+10/21   15:06   Slot: 101 track: 03 isrc code: DKVJ21300303            
+10/21   15:06   Slot: 101 track: 04 isrc code: DKVJ21300201            
+10/21   15:06   Slot: 101 track: 05 isrc code: DKVJ21300304            
+10/21   15:06   Slot: 101 track: 06 isrc code: DKVJ21300305            
+10/21   15:06   Slot: 101 track: 07 isrc code: DKVJ21300306            
+10/21   15:06   Slot: 101 track: 08 isrc code: DKVJ21300307            
+10/21   15:06   Slot: 101 track: 09 isrc code: DKVJ21300308            
+10/21   15:06   Slot: 101 track: 10 isrc code: DKVJ21300101            
+10/21   15:06   Slot: 101 track: 11 isrc code: DKVJ21300309            
+10/21   15:06   Slot: 103 In work             
+10/21   15:07   Slot: 102 Operation was successfull            
+10/21   15:07   Slot: 102 upc/ean code: not found            
+10/21   15:07   Slot: 102 track: 01 isrc code: DKWX61200201            
+10/21   15:07   Slot: 102 track: 02 isrc code: DKWX61200202            
+10/21   15:07   Slot: 102 track: 03 isrc code: DKWX61200203            
+10/21   15:07   Slot: 102 track: 04 isrc code: DKWX61200204            
+10/21   15:07   Slot: 102 track: 05 isrc code: DKWX61200205            
+10/21   15:07   Slot: 102 track: 06 isrc code: DKWX61200206            
+10/21   15:07   Slot: 102 track: 07 isrc code: DKWX61200207            
+10/21   15:07   Slot: 102 track: 08 isrc code: DKWX61200208            
+10/21   15:07   Slot: 102 track: 09 isrc code: DKWX61200209            
+10/21   15:07   Slot: 102 track: 10 isrc code: DKWX61200210            
+10/21   15:07   Slot: 102 track: 11 isrc code: DKWX61200211            
+10/21   15:07   Slot: 104 In work             
+10/21   15:08   Slot: 103 Operation was successfull            
+10/21   15:08   Slot: 103 upc/ean code: not found            
+10/21   15:08   Slot: 103 track: 01 isrc code: DKUM21100101            
+10/21   15:08   Slot: 103 track: 02 isrc code: DKUM21100102            
+10/21   15:08   Slot: 103 track: 03 isrc code: DKUM21100103            
+10/21   15:08   Slot: 103 track: 04 isrc code: DKUM21100104            
+10/21   15:08   Slot: 103 track: 05 isrc code: DKUM21100105            
+10/21   15:08   Slot: 103 track: 06 isrc code: DKUM21100106            
+10/21   15:08   Slot: 105 In work             
+10/21   15:11   Slot: 105 Operation was successfull            
+10/21   15:11   Slot: 105 upc/ean code: not found            
+10/21   15:11   Slot: 104 Operation was successfull            
+10/21   15:11   Slot: 104 upc/ean code: not found            
+10/21   15:11   Slot: 104 track: 01 isrc code: DKLH11000101            
+10/21   15:11   Slot: 104 track: 02 isrc code: DKLH11000102            
+10/21   15:11   Slot: 104 track: 03 isrc code: DKLH11000103            
+10/21   15:11   Slot: 104 track: 04 isrc code: DKLH11000104            
+10/21   15:11   Slot: 104 track: 05 isrc code: DKLH11000105            
+10/21   15:11   Slot: 104 track: 06 isrc code: DKLH11000106            
+10/21   15:11   Slot: 104 track: 07 isrc code: DKLH11000107            
+10/21   15:11   Slot: 104 track: 08 isrc code: DKLH11000108            
+10/21   15:11   Slot: 104 track: 09 isrc code: DKLH11000109            
+10/21   15:11   Slot: 104 track: 10 isrc code: DKLH11000110            
+10/21   15:11   Slot: 104 track: 11 isrc code: DKLH11000111            
+10/21   15:11   Slot: 104 track: 12 isrc code: DKLH11000112            
+10/21   15:11   Slot: 104 track: 13 isrc code: DKLH11000113            
+10/21   15:11   Slot: 104 track: 14 isrc code: DKLH11000114            
+10/21   15:11   Slot: 104 track: 15 isrc code: DKLH11000115            
+10/21   15:11   All Slots processed                                           
