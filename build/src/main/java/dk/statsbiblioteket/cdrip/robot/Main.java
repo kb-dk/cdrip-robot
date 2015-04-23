@@ -1,20 +1,19 @@
 package dk.statsbiblioteket.cdrip.robot;
 
+import java.io.File;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.StringReader;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
+import java.util.TreeSet;
+
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 import org.xml.sax.EntityResolver;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
-
-import java.io.File;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.StringReader;
-import java.time.LocalDateTime;
-import java.util.List;
-import java.util.TreeSet;
-
-import static java.time.format.DateTimeFormatter.ofPattern;
 
 /**
  * Simplest possible implementation for jobfile_627.job.xml. Provide the jobfile path string as args[0].
@@ -31,14 +30,15 @@ public class Main {
         }
         String jobfilename = args[0];
 
-        LocalDateTime startTime = LocalDateTime.now();
+        //LocalDateTime startTime = LocalDateTime.now();
+        Date startTime = new Date();
 
-        // Job.readJobFileContent()
+        // Job.readJobFileContent() - nasty hack to circumvent missing DTD
         SAXReader reader = new SAXReader();
         reader.setEntityResolver(new EntityResolver() {
             @Override
             public InputSource resolveEntity(String publicId, String systemId) throws SAXException, IOException {
-                System.out.println("Resolving entity publicID='" + publicId + "' SystemID='" + systemId + "'");
+                //System.out.println("Resolving entity publicID='" + publicId + "' SystemID='" + systemId + "'");
                 if (systemId.contains("Joblist")) {
                     return new InputSource(new StringReader(""));
                 } else {
@@ -59,7 +59,8 @@ public class Main {
             slots.add(inputNameText);
         }
 
-        String filename1 = startTime.format(ofPattern(PATTERN1));
+        //String filename1 = startTime.format(ofPattern(PATTERN1));
+        String filename1 = new SimpleDateFormat(PATTERN1).format(startTime);
         File file1 = new File(filename1);
         PrintWriter pw1 = new PrintWriter(file1);
         pw1.println("CD-Inspector Version: 2. 0. 1. 4  LogfileStart:   10/21/2014   14:52\n" +
@@ -82,7 +83,8 @@ public class Main {
         pw1.println("10/21   15:11   All Slots processed");
         pw1.close();
 
-        String filename2 = startTime.format(ofPattern(PATTERN2));
+        // String filename2 = startTime.format(ofPattern(PATTERN2));
+        String filename2 = new SimpleDateFormat(PATTERN2).format(startTime);
         File file2 = new File(filename2);
         PrintWriter pw2 = new PrintWriter(file2);
         pw2.println("CD-Inspector Version: 2. 0. 1. 4  Logfile\n" +
